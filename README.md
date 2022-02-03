@@ -7,7 +7,7 @@
 - "Исследование объявлений о продаже квартир в Санкт-Петербурге" [[посмотреть](https://github.com/imeleges/YPDS_Projects/tree/main/exploratory_analysis_of_apartments%20)]
 - "Определение перспективного тарифа для телеком-компании" [[посмотреть](https://github.com/imeleges/YPDS_Projects/tree/main/promising_tariff_for_a_telecom_company)]
   - `ML проект` "Рекомендация тарифов" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/cellular_tariffs_recommendations)
-- "Закономерности определяющие успешность игры" (сборный проект - 1) [[посмотреть](https://github.com/imeleges/YPDS_Projects/tree/main/sectional_project)]
+- "Закономерности определяющие успешность игры" (сборный проект - 1) [[посмотреть](https://github.com/imeleges/YPDS_Projects/tree/main/determining_game_success_patterns)]
 - `ML проект` "Прогнозирование оттока клиентов «Бета-Банка»" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/forecasting_the_churn_of_betabank_customers)
 - `ML проект` "Выбор региона для разработки новых нефтяных месторождений" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/new_oilwells_research)
 - ...
