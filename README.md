@@ -10,6 +10,7 @@
 - "Закономерности определяющие успешность игры" (сборный проект - 1) [[посмотреть](https://github.com/imeleges/YPDS_Projects/tree/main/determining_game_success_patterns)]
 - `ML проект` "Прогнозирование оттока клиентов «Бета-Банка»" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/forecasting_the_churn_of_betabank_customers)
 - `ML проект` "Выбор региона для разработки новых нефтяных месторождений" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/new_oilwells_research)
+- `ML проект` "Предсказание коэффициента восстановления золота из золотосодержащей руды" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/gold_recovery_ratio_from_gold_ore)
 - ...
 
 Все проекты в этом репозитории являются моими личными работами по учебным заданиям на курсе **Data Science** от **Яндекс.Практикума**.
