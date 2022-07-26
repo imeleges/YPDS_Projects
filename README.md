@@ -13,7 +13,7 @@
 - [`PROJ_07`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07) - `ML` "Выбор региона для разработки новых нефтяных месторождений"
 - [`PROJ_08`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08) - `ML` "Предсказание коэффициента восстановления золота из золотосодержащей руды"
 - [`PROJ_09`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09) - `ML` "Разработка алгоритма для защиты данных"
-- [`PROJ_10`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10) - `ML` ""
+- [`PROJ_10`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10) - `ML` "Построение модели определения стоимости автомобиля"
 - [`PROJ_11`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11) - `ML` ""
 - ...
 
