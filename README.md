@@ -4,8 +4,8 @@
 
 Список проектов:
 
-- [`PROJ_01`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01) - "Исследование надёжности заёмщиков"
-- [`PROJ_02`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) - "Исследование объявлений о продаже квартир в Санкт-Петербурге"
+- [![PROJ_01](https://img.shields.io/badge/PROJ-01-blue)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01) - "Исследование надёжности заёмщиков"
+- [![PROJ_02](https://img.shields.io/badge/PROJ-02-blue)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) - "Исследование объявлений о продаже квартир в Санкт-Петербурге"
 - [`PROJ_03`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) - "Определение перспективного тарифа для телеком-компании"
   - [`PROJ_05`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05) - `ML` "Рекомендация тарифов"
 - [`PROJ_04`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04) - "Закономерности определяющие успешность игры"
