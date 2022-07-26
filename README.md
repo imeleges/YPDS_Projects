@@ -19,7 +19,7 @@
 
 ***
 
-[![PROJ_01](https://img.shields.io/badge/Open%29PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
+[![PROJ_01](https://img.shields.io/badge/Go%20to%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
 ## "Исследование надёжности заёмщиков"  
 
 ### Задачи проекта 
@@ -47,7 +47,7 @@
 
 ***
 
-[![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
+[![PROJ_02](https://img.shields.io/badge/Go%20to%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
 ### "Исследование объявлений о продаже квартир в Санкт-Петербурге"  
  
 ## Задачи проекта  
