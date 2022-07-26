@@ -15,6 +15,10 @@
 - [`PROJ_09`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09) - `ML` "Разработка алгоритма для защиты данных"
 - [`PROJ_10`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10) - `ML` "Построение модели определения стоимости автомобиля"
 - [`PROJ_11`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11) - `ML` "Прогнозирование количества заказов такси на следующий час"
+- [`PROJ_12`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_12) - `ML` "Обучение модели классификации комментариев"
+- [`PROJ_13`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_13) - `ML` ""
+- [`PROJ_14`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_14) - `ML` ""
+- [`PROJ_15`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_15) - `ML` ""
 - ...
 
 Все проекты в этом репозитории являются моими личными работами по учебным заданиям на курсе **Data Science** от **Яндекс.Практикума**.
