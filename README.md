@@ -14,7 +14,7 @@
 - [`PROJ_08`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08) - `ML` "Предсказание коэффициента восстановления золота из золотосодержащей руды"
 - [`PROJ_09`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09) - `ML` "Разработка алгоритма для защиты данных"
 - [`PROJ_10`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10) - `ML` "Построение модели определения стоимости автомобиля"
-- [`PROJ_11`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11) - `ML` ""
+- [`PROJ_11`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11) - `ML` "Прогнозирование количества заказов такси на следующий час"
 - ...
 
 Все проекты в этом репозитории являются моими личными работами по учебным заданиям на курсе **Data Science** от **Яндекс.Практикума**.
