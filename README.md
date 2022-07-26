@@ -2,25 +2,53 @@
 
 Учебные проекты курса по **Data Science** | **Яндекс Практикум**
 
-Список проектов:
+## Список проектов:
 
-- [![PROJ_01](https://img.shields.io/badge/PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01) - "Исследование надёжности заёмщиков"
-- [![PROJ_02](https://img.shields.io/badge/PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) - "Исследование объявлений о продаже квартир в Санкт-Петербурге"
-- [![PROJ_03](https://img.shields.io/badge/PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) - "Определение перспективного тарифа для телеком-компании"
-- [![PROJ_04](https://img.shields.io/badge/PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04) - "Закономерности определяющие успешность игры"
-- [![PROJ_05](https://img.shields.io/badge/PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05) - "Рекомендация тарифов"  
+### [![PROJ_01](https://img.shields.io/badge/PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01) "Исследование надёжности заёмщиков"  
+На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок  
+
+**Направление деятельности**  
+![Data Analyst](https://img.shields.io/static/v1?label=&message=Data%20Analyst&color=blue)
+![Финансовый аналитик](https://img.shields.io/static/v1?label=&message=Финансовый%20аналитик&color=blue)
+
+**Навыки и инструменты**  
+![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=blue)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=blue)
+![PyMystem3](https://img.shields.io/static/v1?label=&message=PyMystem3&color=blue)
+![Лемматизация](https://img.shields.io/static/v1?label=&message=Лемматизация&color=blue)
+![Предобработка данных](https://img.shields.io/static/v1?label=&message=Предобработка%20данных&color=blue)
+
+***
+
+### [![PROJ_02](https://img.shields.io/badge/PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) "Исследование объявлений о продаже квартир в Санкт-Петербурге"
+![Pandas](https://img.shields.io/static/v1?label=&message=pandas&color=blue)
+![Python](https://img.shields.io/static/v1?label=&message=python&color=blue)
+***
+
+### [![PROJ_03](https://img.shields.io/badge/PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) "Определение перспективного тарифа для телеком-компании"
+![Pandas](https://img.shields.io/static/v1?label=&message=pandas&color=blue)
+![Python](https://img.shields.io/static/v1?label=&message=python&color=blue)
+***
+
+### [![PROJ_04](https://img.shields.io/badge/PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04) "Закономерности определяющие успешность игры"
+![Pandas](https://img.shields.io/static/v1?label=&message=pandas&color=blue)
+![Python](https://img.shields.io/static/v1?label=&message=python&color=blue)
+***
+
+
+### [![PROJ_05](https://img.shields.io/badge/PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05) "Рекомендация тарифов"  
   ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
   ![Pandas](https://img.shields.io/static/v1?label=&message=pandas&color=blue)
   ![Python](https://img.shields.io/static/v1?label=&message=python&color=blue)
 
 
-- [![PROJ_06](https://img.shields.io/badge/PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06) - "Прогнозирование оттока клиентов «Бета-Банка»"  
+### [![PROJ_06](https://img.shields.io/badge/PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06) - "Прогнозирование оттока клиентов «Бета-Банка»"  
   ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
   ![Pandas](https://img.shields.io/static/v1?label=&message=pandas&color=blue)
   ![Python](https://img.shields.io/static/v1?label=&message=python&color=blue)
 
   
-- [![PROJ_07](https://img.shields.io/badge/PROJ-07-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07) - "Выбор региона для разработки новых нефтяных месторождений"  
+### [![PROJ_07](https://img.shields.io/badge/PROJ-07-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07) - "Выбор региона для разработки новых нефтяных месторождений"  
   ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
   ![Pandas](https://img.shields.io/static/v1?label=&message=pandas&color=blue)
   ![Python](https://img.shields.io/static/v1?label=&message=python&color=blue)
