@@ -4,7 +4,8 @@
 
 ## Список проектов:
 
-### [![PROJ_01](https://img.shields.io/badge/PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01) "Исследование надёжности заёмщиков"  
+### "Исследование надёжности заёмщиков"  
+[![PROJ_01](https://img.shields.io/badge/PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок  
 
 **Направление деятельности**  
