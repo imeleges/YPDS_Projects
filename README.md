@@ -9,7 +9,7 @@
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок  
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=&message=Data%20Analyst&color=blue)]()
+[![Data Analyst](https://img.shields.io/static/v1?label=&message=Data%20Analyst&color=blue)](#)
 ![Финансовый аналитик](https://img.shields.io/static/v1?label=&message=Финансовый%20аналитик&color=blue)
 
 **Навыки и инструменты**  
