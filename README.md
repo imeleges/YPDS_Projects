@@ -6,12 +6,12 @@
 
 - [`PROJ_01`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01) - "Исследование надёжности заёмщиков"
 - [`PROJ_02`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) - "Исследование объявлений о продаже квартир в Санкт-Петербурге"
-- "Определение перспективного тарифа для телеком-компании" [[посмотреть](https://github.com/imeleges/YPDS_Projects/tree/main/promising_tariff_for_a_telecom_company)]
-  - `ML проект` "Рекомендация тарифов" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/cellular_tariffs_recommendations)
-- "Закономерности определяющие успешность игры" (сборный проект - 1) [[посмотреть](https://github.com/imeleges/YPDS_Projects/tree/main/determining_game_success_patterns)]
-- `ML проект` "Прогнозирование оттока клиентов «Бета-Банка»" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/forecasting_the_churn_of_betabank_customers)
-- `ML проект` "Выбор региона для разработки новых нефтяных месторождений" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/new_oilwells_research)
-- `ML проект` "Предсказание коэффициента восстановления золота из золотосодержащей руды" [[посмотреть]](https://github.com/imeleges/YPDS_Projects/tree/main/gold_recovery_ratio_from_gold_ore)
+- [`PROJ_03`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) - "Определение перспективного тарифа для телеком-компании"
+  - [`PROJ_05`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05) - `ML проект` "Рекомендация тарифов"
+- [`PROJ_04`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04) - "Закономерности определяющие успешность игры"
+- [`PROJ_06`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06) - `ML проект` "Прогнозирование оттока клиентов «Бета-Банка»"
+- [`PROJ_07`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07) - `ML проект` "Выбор региона для разработки новых нефтяных месторождений"
+- [`PROJ_08`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08) - `ML проект` "Предсказание коэффициента восстановления золота из золотосодержащей руды"
 - ...
 
 Все проекты в этом репозитории являются моими личными работами по учебным заданиям на курсе **Data Science** от **Яндекс.Практикума**.
