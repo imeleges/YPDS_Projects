@@ -3,12 +3,12 @@
 Учебные проекты курса по **Data Science** | **Яндекс Практикум**
 
 ## Список проектов:  
-- [![PROJ_01](https://img.shields.io/badge/🔗%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects#) "Исследование надёжности заёмщиков"  
+- [![PROJ_01](https://img.shields.io/badge/🔗%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects#исследование-надёжности-заёмщиков) "Исследование надёжности заёмщиков"  
 - [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects#) "Исследование объявлений о продаже квартир в Санкт-Петербурге"  
 - [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects#) "Определение перспективного тарифа для телеком-компании"
 - [![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects#) "Закономерности определяющие успешность компьютерной игры"
 - [![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects#) "Рекомендация тарифов для телеком-компании" 
-- [![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects#) "Прогнозирование оттока клиентов"
+- [![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects#) "Прогнозирование оттока клиентов банка"
 - [![PROJ_07](https://img.shields.io/badge/🔗%20PROJ-07-success)](https://github.com/imeleges/YPDS_Projects#) "Выбор региона для разработки новых нефтяных месторождений"
 - [![PROJ_08](https://img.shields.io/badge/🔗%20PROJ-08-success)](https://github.com/imeleges/YPDS_Projects#) "Предсказание коэффициента восстановления золота из золотосодержащей руды"
 - [![PROJ_09](https://img.shields.io/badge/🔗%20PROJ-09-success)](https://github.com/imeleges/YPDS_Projects#) "Разработка алгоритма для защиты данных"
@@ -33,10 +33,10 @@
 Построена модель кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](#)
-[![Финансовый аналитик](https://img.shields.io/static/v1?label=Trend&message=Финансовый%20аналитик&color=blue)](#)
-[![Банковская сфера](https://img.shields.io/static/v1?label=Field&message=Банковская%20сфера&color=blue)](#)
-[![Кредитование](https://img.shields.io/static/v1?label=Field&message=Кредитование&color=blue)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+[![Финансовый аналитик](https://img.shields.io/static/v1?label=Trend&message=Финансовый%20аналитик&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+[![Банковская сфера](https://img.shields.io/static/v1?label=Field&message=Банковская%20сфера&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+[![Кредитование](https://img.shields.io/static/v1?label=Field&message=Кредитование&color=blue)](https://github.com/imeleges/YPDS_Projects#)
 
 **Навыки и инструменты**  
 ![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
@@ -62,7 +62,7 @@
 Построены гистограммы, боксплоты, диаграммы рассеивания.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](https://github.com/imeleges/YPDS_Projects#)
 
 **Навыки и инструменты**  
 ![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
@@ -77,21 +77,44 @@
 [![PROJ_03](https://img.shields.io/badge/🔗%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) 
 ## "Определение перспективного тарифа для телеком-компании"
 
+### Задачи проекта  
+Необходимо сделать предварительный анализ тарифов на небольшой, 500 пользователей, выборке клиентов за 2018 год. Выборка содержит такие данные как: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил.  
+Проанализировав полученные данные и поведение клиентов, следует сделать вывод - какой тариф в итоге лучше.
+
+### Описание проекта
+Оператор мобильной связи выяснил: многие клиенты пользуются архивными тарифами.  
+Проведен предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора и рекомендованы оптимальные наборы услуг для пользователей.  
+Проверены гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов.  
+Определен выгодный тарифный план для корректировки рекламного бюджета.
+
+**Направление деятельности**  
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+
+**Навыки и инструменты**  
+![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
+![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
+![Matplotlib](https://img.shields.io/static/v1?label=Tool&message=Matplotlib&color=blue)
+![SciPy](https://img.shields.io/static/v1?label=Tool&message=SciPy&color=blue)
+![Seaborn](https://img.shields.io/static/v1?label=Tool&message=Seaborn&color=blue)
+![Описательная статистика](https://img.shields.io/static/v1?label=Skill&message=Описательная%20статистика&color=blue)
+![Проверка статистических гипотез](https://img.shields.io/static/v1?label=Skill&message=Проверка%20статистических%20гипотез&color=blue)
+
 ***
 
 [![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04)
-## "Закономерности определяющие успешность игры"
+## "Закономерности определяющие успешность компьютерной игры"
 
 ***
 
 [![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05)
-## "Рекомендация тарифов"  
+## "Рекомендация тарифов для телеком-компании"  
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 
 ***
 
 [![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06)
-## "Прогнозирование оттока клиентов «Бета-Банка»"  
+## "Прогнозирование оттока клиентов банка"  
 
 ***
 
