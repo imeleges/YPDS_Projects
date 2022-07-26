@@ -19,7 +19,7 @@
 
 ***
 
-[![PROJ_01](https://img.shields.io/badge/🔗%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
+[![PROJ_01](https://img.shields.io/badge/Open%29PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
 ## "Исследование надёжности заёмщиков"  
 
 ### Задачи проекта 
@@ -46,6 +46,7 @@
 ![Предобработка данных](https://img.shields.io/static/v1?label=Skill&message=Предобработка%20данных&color=blue)
 
 ***
+
 [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
 ### "Исследование объявлений о продаже квартир в Санкт-Петербурге"  
  
@@ -70,53 +71,66 @@
 ![Визуализация данных](https://img.shields.io/static/v1?label=Skill&message=Визуализация%20данных&color=blue)
 ![Исследовательский анализ данных](https://img.shields.io/static/v1?label=Skill&message=Исследовательский%20анализ%20данных&color=blue)
 ![Предобработка данных](https://img.shields.io/static/v1?label=Skill&message=Предобработка%20данных&color=blue)
-***
-
-### [![PROJ_03](https://img.shields.io/badge/🔗%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) "Определение перспективного тарифа для телеком-компании"
 
 ***
 
-### [![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04) "Закономерности определяющие успешность игры"
+[![PROJ_03](https://img.shields.io/badge/🔗%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) 
+## "Определение перспективного тарифа для телеком-компании"
 
 ***
 
+[![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04)
+## "Закономерности определяющие успешность игры"
 
-### [![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05) "Рекомендация тарифов"  
+***
+
+[![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05)
+## "Рекомендация тарифов"  
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 
+***
 
+[![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06)
+## "Прогнозирование оттока клиентов «Бета-Банка»"  
 
-### [![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06) - "Прогнозирование оттока клиентов «Бета-Банка»"  
+***
 
+[![PROJ_07](https://img.shields.io/badge/🔗%20PROJ-07-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07)
+## "Выбор региона для разработки новых нефтяных месторождений"  
 
-  
-### [![PROJ_07](https://img.shields.io/badge/🔗%20PROJ-07-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07) - "Выбор региона для разработки новых нефтяных месторождений"  
+***
 
+[![PROJ_08](https://img.shields.io/badge/🔗%20PROJ-08-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08)
+## "Предсказание коэффициента восстановления золота из золотосодержащей руды"  
 
-  
-- [![PROJ_08](https://img.shields.io/badge/🔗%20PROJ-08-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08) - "Предсказание коэффициента восстановления золота из золотосодержащей руды"  
+***
 
+[![PROJ_09](https://img.shields.io/badge/🔗%20PROJ-09-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09)
+## "Разработка алгоритма для защиты данных"  
 
-  
-- [![PROJ_09](https://img.shields.io/badge/🔗%20PROJ-09-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09) - "Разработка алгоритма для защиты данных"  
+***
 
+[![PROJ_10](https://img.shields.io/badge/🔗%20PROJ-10-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10)
+## "Построение модели определения стоимости автомобиля"  
 
-  
-- [![PROJ_10](https://img.shields.io/badge/🔗%20PROJ-10-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10) - "Построение модели определения стоимости автомобиля"  
+***
 
+[![PROJ_11](https://img.shields.io/badge/🔗%20PROJ-11-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11)
+## "Прогнозирование количества заказов такси на следующий час"    
 
-  
-- [![PROJ_11](https://img.shields.io/badge/🔗%20PROJ-11-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11) - "Прогнозирование количества заказов такси на следующий час"  
+***
 
+[![PROJ_12](https://img.shields.io/badge/🔗%20PROJ-12-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_12)
+## "Обучение модели классификации комментариев"  
 
-  
-- [![PROJ_12](https://img.shields.io/badge/🔗%20PROJ-12-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_12) - "Обучение модели классификации комментариев"  
+***
 
-
-  
 
 **Финальный проект**  
-- [![PROJ_13](https://img.shields.io/badge/🔗%20PROJ-13-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_13) "Оптимизация производственных расходов для металлургического комбината"  
+[![PROJ_13](https://img.shields.io/badge/🔗%20PROJ-13-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_13)
+## "Оптимизация производственных расходов для металлургического комбината"  
+
+***
 
 
 Все проекты в этом репозитории являются моими личными работами по учебным заданиям на курсе **Data Science** от **Яндекс.Практикума**.
