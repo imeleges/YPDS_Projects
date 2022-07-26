@@ -1,17 +1,20 @@
 # YPDS_Projects
 
-Учебные проекты курса по Data Science | Яндекс Практикум
+Учебные проекты курса по **Data Science** | **Яндекс Практикум**
 
 Список проектов:
 
 - [`PROJ_01`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01) - "Исследование надёжности заёмщиков"
 - [`PROJ_02`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) - "Исследование объявлений о продаже квартир в Санкт-Петербурге"
 - [`PROJ_03`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) - "Определение перспективного тарифа для телеком-компании"
-  - [`PROJ_05`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05) - `ML проект` "Рекомендация тарифов"
+  - [`PROJ_05`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05) - `ML` "Рекомендация тарифов"
 - [`PROJ_04`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04) - "Закономерности определяющие успешность игры"
-- [`PROJ_06`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06) - `ML проект` "Прогнозирование оттока клиентов «Бета-Банка»"
-- [`PROJ_07`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07) - `ML проект` "Выбор региона для разработки новых нефтяных месторождений"
-- [`PROJ_08`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08) - `ML проект` "Предсказание коэффициента восстановления золота из золотосодержащей руды"
+- [`PROJ_06`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06) - `ML` "Прогнозирование оттока клиентов «Бета-Банка»"
+- [`PROJ_07`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07) - `ML` "Выбор региона для разработки новых нефтяных месторождений"
+- [`PROJ_08`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08) - `ML` "Предсказание коэффициента восстановления золота из золотосодержащей руды"
+- [`PROJ_09`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09) - `ML` "Разработка алгоритма для защиты данных"
+- [`PROJ_10`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10) - `ML` ""
+- [`PROJ_11`](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11) - `ML` ""
 - ...
 
 Все проекты в этом репозитории являются моими личными работами по учебным заданиям на курсе **Data Science** от **Яндекс.Практикума**.
