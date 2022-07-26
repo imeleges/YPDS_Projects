@@ -14,4 +14,6 @@
 **Навыки и инструменты**  
 `Pandas`, `Python`, 
 
+[![Tools & Skills](https://img.shields.io/badge/tools%20%26%20skills-Pandas%20%7C%20Python-success)]
+
 ---
