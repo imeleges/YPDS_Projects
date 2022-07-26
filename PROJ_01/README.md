@@ -18,10 +18,10 @@
 [![Кредитование](https://img.shields.io/static/v1?label=Field&message=Кредитование&color=blue)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=&message=Python&color=blue)
-![PyMystem3](https://img.shields.io/static/v1?label=&message=PyMystem3&color=blue)
-![Лемматизация](https://img.shields.io/static/v1?label=&message=Лемматизация&color=blue)
-![Предобработка данных](https://img.shields.io/static/v1?label=&message=Предобработка%20данных&color=blue)
+![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
+![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
+![PyMystem3](https://img.shields.io/static/v1?label=Tool&message=PyMystem3&color=blue)
+![Лемматизация](https://img.shields.io/static/v1?label=Skill&message=Лемматизация&color=blue)
+![Предобработка данных](https://img.shields.io/static/v1?label=Skill&message=Предобработка%20данных&color=blue)
 
 ---
