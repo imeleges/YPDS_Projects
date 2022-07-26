@@ -18,8 +18,10 @@
 Построена модель кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=&message=Data%20Analyst&color=blue)](#)
-![Финансовый аналитик](https://img.shields.io/static/v1?label=&message=Финансовый%20аналитик&color=blue)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](#)
+[![Финансовый аналитик](https://img.shields.io/static/v1?label=Trend&message=Финансовый%20аналитик&color=blue)](#)
+[![Банковская сфера](https://img.shields.io/static/v1?label=Field&message=Банковская%20сфера&color=blue)](#)
+[![Кредитование](https://img.shields.io/static/v1?label=Field&message=Кредитование&color=blue)](#)
 
 **Навыки и инструменты**  
 ![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=blue)
