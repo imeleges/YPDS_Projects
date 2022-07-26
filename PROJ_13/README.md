@@ -9,11 +9,11 @@
 Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. 
 
 **Направление деятельности**  
-`Data Science`, `Машинное обучение`,
+![Data Science](https://img.shields.io/static/v1?label=&message=Data%20Science&color=blue) ![Машинное обучение](https://img.shields.io/static/v1?label=&message=Машинное%20обучение&color=blue)
+
 
 **Навыки и инструменты**  
-`Pandas`, `Python`, 
-
-[! Tools & Skills (https://img.shields.io/badge/tools%20%26%20skills-Pandas%20%7C%20Python-success)]
+![Pandas](https://img.shields.io/static/v1?label=&message=pandas&color=important)
+![Python](https://img.shields.io/static/v1?label=&message=python&color=blue)
 
 ---
