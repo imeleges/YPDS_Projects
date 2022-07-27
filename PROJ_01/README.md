@@ -1,4 +1,4 @@
-[![PROJ_01](https://img.shields.io/badge/go%20to%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
+[![PROJ_01](https://img.shields.io/badge/open%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/blob/main/PROJ_01/borrowers_reliability_research.ipynb)  
 # "Исследование надёжности заёмщиков"  
 
 ## Задачи проекта 
