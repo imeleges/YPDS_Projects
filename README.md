@@ -88,7 +88,7 @@
 
 **Направление деятельности**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
@@ -150,7 +150,7 @@
 
 **Направление деятельности**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
@@ -176,7 +176,7 @@
 Обучение с учителем. Работа с несбалансированными данными.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
@@ -207,7 +207,7 @@
 Результаты исследования проанализировать техникой `Bootstrap` на возможную прибыль и риски
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
@@ -235,7 +235,7 @@
 Построена и обучена модель, помогающая оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
@@ -261,7 +261,7 @@
 Была проведена предобработка данных. Произведена проверка работы алгоритма модели линейной регрессии при перемножении на обратимую матрицу. Произведена проверка влияния перемножения на обратимую матрицу, а затем перемножения на обратную матрицу обратимой. Произведена проверка метрики R2 Линейной регрессии на идентичных данных - сначала исходных, затем умноженных на обратимую матрицу, размер которой равен числу признаков. Метрики полностью совпали. Можно сделать вывод, что алгоритм работает.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
@@ -283,7 +283,7 @@
 Сервис по продаже автомобилей с пробегом  разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. На основе исторические данные необходимо построить модель для определения стоимости автомобиля.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
@@ -304,7 +304,7 @@
 Компания такси собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Строится модель для такого предсказания.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
@@ -327,7 +327,7 @@
 Интернет-магазин запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Требуется инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
@@ -351,7 +351,7 @@
 Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. 
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
