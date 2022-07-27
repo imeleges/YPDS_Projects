@@ -38,7 +38,8 @@
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![PyMystem3](https://img.shields.io/static/v1?label=tool&message=PyMystem3&color=cd6133)](#)
+[![PyMystem3](https://img.shields.io/static/v1?label=tool&message=PyMystem3&color=cd6133)](#)  
+
 [![Лемматизация](https://img.shields.io/static/v1?label=skill&message=Лемматизация&color=1B9CFC)](#)
 [![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
 
@@ -64,7 +65,8 @@
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)  
+
 [![Визуализация данных](https://img.shields.io/static/v1?label=skill&message=Визуализация%20данных&color=F97F51)](#)
 [![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
 [![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
@@ -93,7 +95,8 @@
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
 [![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)
-[![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)  
+
 [![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
 [![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
 
@@ -123,7 +126,8 @@
 [![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
 [![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)
 [![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)
-[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
+
 [![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
 [![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
 [![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
@@ -151,7 +155,8 @@
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)  
+
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
@@ -178,7 +183,8 @@
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
 [![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
-[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
+
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
@@ -210,7 +216,8 @@
 [![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
 [![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
 [![Bootstrap](https://img.shields.io/static/v1?label=tool&message=Bootstrap&color=ffb142)](#)
-[![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)
+[![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)  
+
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
@@ -236,7 +243,8 @@
 [![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
 [![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
 [![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
-[![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)  
+
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
@@ -258,7 +266,8 @@
 **Навыки и инструменты**  
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
-[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
+
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
@@ -278,7 +287,8 @@
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
-[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)  
+
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
@@ -299,7 +309,8 @@
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)  
+
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
@@ -323,7 +334,8 @@
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![NLP](https://img.shields.io/static/v1?label=tool&message=NLP&color=218c74)](#)
 [![nltk](https://img.shields.io/static/v1?label=tool&message=nltk&color=474787)](#)
-[![tf-idf](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=227093)](#)
+[![tf-idf](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=227093)](#)  
+
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
@@ -343,7 +355,8 @@
 
 **Навыки и инструменты**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
-[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)  
+
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
