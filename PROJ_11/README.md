@@ -1,4 +1,4 @@
-[![PROJ_11](https://img.shields.io/badge/go%20to%20PROJ-11-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11)
+[![PROJ_11](https://img.shields.io/badge/open%20PROJ-11-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11/forecasting_taxi_orders.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 # "Прогнозирование количества заказов такси на следующий час"  
 

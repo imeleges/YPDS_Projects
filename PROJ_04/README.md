@@ -1,4 +1,4 @@
-[![PROJ_04](https://img.shields.io/badge/go%20to%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04)
+[![PROJ_04](https://img.shields.io/badge/open%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04/determining_game_success_patterns.ipynb)
 # "Закономерности определяющие успешность компьютерной игры"
 
 ## Задачи проекта  

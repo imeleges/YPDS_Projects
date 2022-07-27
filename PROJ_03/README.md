@@ -1,4 +1,4 @@
-[![PROJ_03](https://img.shields.io/badge/go%20to%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) 
+[![PROJ_03](https://img.shields.io/badge/open%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03/promising_tariff_for_a_telecom_company.ipynb) 
 # "Определение перспективного тарифа для телеком-компании"
 
 ## Задачи проекта  

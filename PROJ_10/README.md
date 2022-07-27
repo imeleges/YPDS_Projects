@@ -1,4 +1,4 @@
-[![PROJ_10](https://img.shields.io/badge/go%20to%20PROJ-10-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10)
+[![PROJ_10](https://img.shields.io/badge/open%20PROJ-10-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10/determining_the_cost_of_cars.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 # "Построение модели определения стоимости автомобиля"  
 

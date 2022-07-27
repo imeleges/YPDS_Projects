@@ -1,4 +1,4 @@
-[![PROJ_13](https://img.shields.io/badge/go%20to%20PROJ-13-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_13)
+[![PROJ_13](https://img.shields.io/badge/open%20PROJ-13-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_13/optimization_of_production_costs.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 # "Оптимизация производственных расходов для металлургического комбината"  
 

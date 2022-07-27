@@ -1,4 +1,4 @@
-[![PROJ_08](https://img.shields.io/badge/go%20to%20PROJ-08-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08)
+[![PROJ_08](https://img.shields.io/badge/open%20PROJ-08-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08/gold_recovery_ratio_from_gold_ore.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 # "Предсказание коэффициента восстановления золота из золотосодержащей руды"  
 

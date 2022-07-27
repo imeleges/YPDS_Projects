@@ -1,4 +1,4 @@
-[![PROJ_02](https://img.shields.io/badge/go%20to%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
+[![PROJ_02](https://img.shields.io/badge/open%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02/exploratory_analysis_of_apartments.ipynb) 
 # "Исследование объявлений о продаже квартир в Санкт-Петербурге"  
  
 ## Задачи проекта  

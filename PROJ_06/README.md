@@ -1,4 +1,4 @@
-[![PROJ_06](https://img.shields.io/badge/go%20to%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06)
+[![PROJ_06](https://img.shields.io/badge/open%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06/forecasting_the_churn_of_betabank_customers.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 # "Прогнозирование оттока клиентов банка"  
 

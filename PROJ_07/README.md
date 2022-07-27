@@ -1,4 +1,4 @@
-[![PROJ_07](https://img.shields.io/badge/go%20to%20PROJ-07-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07)
+[![PROJ_07](https://img.shields.io/badge/open%20PROJ-07-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07/new_oilwells_research.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 # "Выбор региона для разработки новых нефтяных месторождений"  
 

@@ -1,4 +1,4 @@
-[![PROJ_05](https://img.shields.io/badge/go%20to%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05)
+[![PROJ_05](https://img.shields.io/badge/open%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05/cellular_tariffs_recommendations.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 # "Рекомендация тарифов для телеком-компании"  
 
