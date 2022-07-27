@@ -147,12 +147,14 @@
 Доля правильных ответов доведена до 0.75. Проверены accuracy на тестовой выборке.
 
 **Направление деятельности**  
-`Data scientist`, `Аналитик данных (универсал)`, `Data Analyst`
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=blue)](#)
 
 **Навыки и инструменты**  
-`Pandas`, `Python`, `Sklearn`, `машинное обучение`
-
-![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
+![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
+![Sklearn](https://img.shields.io/static/v1?label=Tool&message=Sklearn&color=blue)
+![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
 
 ***
 
