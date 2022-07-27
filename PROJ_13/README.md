@@ -18,8 +18,8 @@
 
 ---
 
-[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=blue)](#)
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=blue)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
@@ -30,16 +30,16 @@
 [![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
 [![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
 [![Bootstrap](https://img.shields.io/static/v1?label=tool&message=Bootstrap&color=ffb142)](#)
-[![NLP](https://img.shields.io/static/v1?label=tool&message=NLP&color=blue)](#)
-[![nltk](https://img.shields.io/static/v1?label=tool&message=nltk&color=blue)](#)
-[![tf-idf](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=blue)](#)
-[![PyMystem3](https://img.shields.io/static/v1?label=tool&message=PyMystem3&color=blue)](#)
+[![NLP](https://img.shields.io/static/v1?label=tool&message=NLP&color=218c74)](#)
+[![nltk](https://img.shields.io/static/v1?label=tool&message=nltk&color=474787)](#)
+[![tf-idf](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=227093)](#)
+[![PyMystem3](https://img.shields.io/static/v1?label=tool&message=PyMystem3&color=cd6133)](#)
 
-[![Лемматизация](https://img.shields.io/static/v1?label=skill&message=Лемматизация&color=blue)](#)
-[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=blue)](#)
-[![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=blue)](#)
-[![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=blue)](#)
-[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=blue)](#)
-[![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=blue)](#)
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
-[![Визуализация данных](https://img.shields.io/static/v1?label=skill&message=Визуализация%20данных&color=blue)](#)
+[![Лемматизация](https://img.shields.io/static/v1?label=skill&message=Лемматизация&color=1B9CFC)](#)
+[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
+[![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
+[![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
+[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=6D214F)](#)
+[![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
+[![Визуализация данных](https://img.shields.io/static/v1?label=skill&message=Визуализация%20данных&color=F97F51)](#)
