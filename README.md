@@ -33,17 +33,14 @@
 Построена модель кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](https://github.com/imeleges/YPDS_Projects#)
-[![Финансовый аналитик](https://img.shields.io/static/v1?label=Trend&message=Финансовый%20аналитик&color=blue)](https://github.com/imeleges/YPDS_Projects#)
-[![Банковская сфера](https://img.shields.io/static/v1?label=Field&message=Банковская%20сфера&color=blue)](https://github.com/imeleges/YPDS_Projects#)
-[![Кредитование](https://img.shields.io/static/v1?label=Field&message=Кредитование&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![PyMystem3](https://img.shields.io/static/v1?label=Tool&message=PyMystem3&color=blue)
-![Лемматизация](https://img.shields.io/static/v1?label=Skill&message=Лемматизация&color=blue)
-![Предобработка данных](https://img.shields.io/static/v1?label=Skill&message=Предобработка%20данных&color=blue)
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![PyMystem3](https://img.shields.io/static/v1?label=tool&message=PyMystem3&color=cd6133)](#)
+[![Лемматизация](https://img.shields.io/static/v1?label=skill&message=Лемматизация&color=1B9CFC)](#)
+[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
 
 ***
 
@@ -62,15 +59,15 @@
 Построены гистограммы, боксплоты, диаграммы рассеивания.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Matplotlib](https://img.shields.io/static/v1?label=Tool&message=Matplotlib&color=blue)
-![Визуализация данных](https://img.shields.io/static/v1?label=Skill&message=Визуализация%20данных&color=blue)
-![Исследовательский анализ данных](https://img.shields.io/static/v1?label=Skill&message=Исследовательский%20анализ%20данных&color=blue)
-![Предобработка данных](https://img.shields.io/static/v1?label=Skill&message=Предобработка%20данных&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
+[![Визуализация данных](https://img.shields.io/static/v1?label=skill&message=Визуализация%20данных&color=F97F51)](#)
+[![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
+[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
 
 ***
 
@@ -88,17 +85,17 @@
 Определен выгодный тарифный план для корректировки рекламного бюджета.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](https://github.com/imeleges/YPDS_Projects#)
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Matplotlib](https://img.shields.io/static/v1?label=Tool&message=Matplotlib&color=blue)
-![SciPy](https://img.shields.io/static/v1?label=Tool&message=SciPy&color=blue)
-![Seaborn](https://img.shields.io/static/v1?label=Tool&message=Seaborn&color=blue)
-![Описательная статистика](https://img.shields.io/static/v1?label=Skill&message=Описательная%20статистика&color=blue)
-![Проверка статистических гипотез](https://img.shields.io/static/v1?label=Skill&message=Проверка%20статистических%20гипотез&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
+[![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)
+[![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
+[![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
 
 ***
 
@@ -118,19 +115,19 @@
 При анализе использовались критерий Стьюдента для независимых выборок.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Matplotlib](https://img.shields.io/static/v1?label=Tool&message=Matplotlib&color=blue)
-![SciPy](https://img.shields.io/static/v1?label=Tool&message=SciPy&color=blue)
-![Seaborn](https://img.shields.io/static/v1?label=Tool&message=Seaborn&color=blue)
-![NumPy](https://img.shields.io/static/v1?label=Tool&message=NumPy&color=blue)
-![Описательная статистика](https://img.shields.io/static/v1?label=Skill&message=Описательная%20статистика&color=blue)
-![Проверка статистических гипотез](https://img.shields.io/static/v1?label=Skill&message=Проверка%20статистических%20гипотез&color=blue)
-![Предобработка данных](https://img.shields.io/static/v1?label=Skill&message=Предобработка%20данных&color=blue)
-![Исследовательский анализ данных](https://img.shields.io/static/v1?label=Skill&message=Исследовательский%20анализ%20данных&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
+[![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
+[![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
+[![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
+[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
+[![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
 
 ***
 
@@ -148,14 +145,14 @@
 Доля правильных ответов доведена до 0.75. Проверены accuracy на тестовой выборке.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=blue)](#)
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=blue)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Sklearn](https://img.shields.io/static/v1?label=Tool&message=Sklearn&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
 
@@ -174,15 +171,15 @@
 Обучение с учителем. Работа с несбалансированными данными.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Sklearn](https://img.shields.io/static/v1?label=Tool&message=Sklearn&color=blue)
-![Matplotlib](https://img.shields.io/static/v1?label=Tool&message=Matplotlib&color=blue)
-![NumPy](https://img.shields.io/static/v1?label=Tool&message=NumPy&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
 
@@ -204,17 +201,17 @@
 Результаты исследования проанализировать техникой `Bootstrap` на возможную прибыль и риски
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Sklearn](https://img.shields.io/static/v1?label=Tool&message=Sklearn&color=blue)
-![Matplotlib](https://img.shields.io/static/v1?label=Tool&message=Matplotlib&color=blue)
-![NumPy](https://img.shields.io/static/v1?label=Tool&message=NumPy&color=blue)
-![Bootstrap](https://img.shields.io/static/v1?label=Tool&message=Bootstrap&color=blue)
-![SciPy](https://img.shields.io/static/v1?label=Tool&message=SciPy&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
+[![Bootstrap](https://img.shields.io/static/v1?label=tool&message=Bootstrap&color=ffb142)](#)
+[![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
 
@@ -231,16 +228,16 @@
 Построена и обучена модель, помогающая оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Sklearn](https://img.shields.io/static/v1?label=Tool&message=Sklearn&color=blue)
-![Matplotlib](https://img.shields.io/static/v1?label=Tool&message=Matplotlib&color=blue)
-![NumPy](https://img.shields.io/static/v1?label=Tool&message=NumPy&color=blue)
-![Seaborn](https://img.shields.io/static/v1?label=Tool&message=Seaborn&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
 
@@ -256,13 +253,13 @@
 Была проведена предобработка данных. Произведена проверка работы алгоритма модели линейной регрессии при перемножении на обратимую матрицу. Произведена проверка влияния перемножения на обратимую матрицу, а затем перемножения на обратную матрицу обратимой. Произведена проверка метрики R2 Линейной регрессии на идентичных данных - сначала исходных, затем умноженных на обратимую матрицу, размер которой равен числу признаков. Метрики полностью совпали. Можно сделать вывод, что алгоритм работает.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Sklearn](https://img.shields.io/static/v1?label=Tool&message=Sklearn&color=blue)
-![NumPy](https://img.shields.io/static/v1?label=Tool&message=NumPy&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
 
@@ -277,12 +274,12 @@
 Сервис по продаже автомобилей с пробегом  разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. На основе исторические данные необходимо построить модель для определения стоимости автомобиля.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
 
@@ -297,13 +294,13 @@
 Компания такси собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Строится модель для такого предсказания.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Sklearn](https://img.shields.io/static/v1?label=Tool&message=Sklearn&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
 
@@ -319,15 +316,15 @@
 Интернет-магазин запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Требуется инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![NLP](https://img.shields.io/static/v1?label=Tool&message=NLP&color=blue)
-![nltk](https://img.shields.io/static/v1?label=Tool&message=nltk&color=blue)
-![tf-idf](https://img.shields.io/static/v1?label=Tool&message=tf-idf&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![NLP](https://img.shields.io/static/v1?label=tool&message=NLP&color=218c74)](#)
+[![nltk](https://img.shields.io/static/v1?label=tool&message=nltk&color=474787)](#)
+[![tf-idf](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=227093)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
 
@@ -342,12 +339,12 @@
 Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. 
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=2c2c54)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)](#)
+[[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)](#)
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=2C3A47)](#)
 
 ***
 
