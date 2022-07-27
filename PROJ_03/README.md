@@ -1,4 +1,4 @@
-[![PROJ_03](https://img.shields.io/badge/🔗%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) 
+[![PROJ_03](https://img.shields.io/badge/go%20to%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) 
 # "Определение перспективного тарифа для телеком-компании"
 
 ## Задачи проекта  
@@ -12,16 +12,17 @@
 Определен выгодный тарифный план для корректировки рекламного бюджета.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](https://github.com/imeleges/YPDS_Projects#)
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](https://github.com/imeleges/YPDS_Projects#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Matplotlib](https://img.shields.io/static/v1?label=Tool&message=Matplotlib&color=blue)
-![SciPy](https://img.shields.io/static/v1?label=Tool&message=SciPy&color=blue)
-![Seaborn](https://img.shields.io/static/v1?label=Tool&message=Seaborn&color=blue)
-![Описательная статистика](https://img.shields.io/static/v1?label=Skill&message=Описательная%20статистика&color=blue)
-![Проверка статистических гипотез](https://img.shields.io/static/v1?label=Skill&message=Проверка%20статистических%20гипотез&color=blue)
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
+[![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)  
 
----
+[![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
+[![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
+
+***

@@ -1,4 +1,5 @@
-[![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05) ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+[![PROJ_05](https://img.shields.io/badge/go%20to%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05)
+![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 # "Рекомендация тарифов для телеком-компании"  
 
 ## Задачи проекта  
@@ -11,13 +12,14 @@
 Доля правильных ответов доведена до 0.75. Проверены accuracy на тестовой выборке.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=blue)](#)
-[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=blue)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Sklearn](https://img.shields.io/static/v1?label=Tool&message=Sklearn&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)  
 
----
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+
+***

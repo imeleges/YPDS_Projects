@@ -1,4 +1,4 @@
-[![PROJ_01](https://img.shields.io/badge/🔗%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
+[![PROJ_01](https://img.shields.io/badge/go%20to%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
 # "Исследование надёжности заёмщиков"  
 
 ## Задачи проекта 
@@ -12,16 +12,14 @@
 Построена модель кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](#)
-[![Финансовый аналитик](https://img.shields.io/static/v1?label=Trend&message=Финансовый%20аналитик&color=blue)](#)
-[![Банковская сфера](https://img.shields.io/static/v1?label=Field&message=Банковская%20сфера&color=blue)](#)
-[![Кредитование](https://img.shields.io/static/v1?label=Field&message=Кредитование&color=blue)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![PyMystem3](https://img.shields.io/static/v1?label=Tool&message=PyMystem3&color=blue)
-![Лемматизация](https://img.shields.io/static/v1?label=Skill&message=Лемматизация&color=blue)
-![Предобработка данных](https://img.shields.io/static/v1?label=Skill&message=Предобработка%20данных&color=blue)
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![PyMystem3](https://img.shields.io/static/v1?label=tool&message=PyMystem3&color=cd6133)](#)  
 
----
+[![Лемматизация](https://img.shields.io/static/v1?label=skill&message=Лемматизация&color=1B9CFC)](#)
+[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
+
+***

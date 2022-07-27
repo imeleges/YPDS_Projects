@@ -1,4 +1,4 @@
-[![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
+[![PROJ_02](https://img.shields.io/badge/go%20to%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
 # "Исследование объявлений о продаже квартир в Санкт-Петербурге"  
  
 ## Задачи проекта  
@@ -13,13 +13,15 @@
 Построены гистограммы, боксплоты, диаграммы рассеивания.
 
 **Направление деятельности**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=blue)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Matplotlib](https://img.shields.io/static/v1?label=Tool&message=Matplotlib&color=blue)
-![Визуализация данных](https://img.shields.io/static/v1?label=Skill&message=Визуализация%20данных&color=blue)
-![Исследовательский анализ данных](https://img.shields.io/static/v1?label=Skill&message=Исследовательский%20анализ%20данных&color=blue)
-![Предобработка данных](https://img.shields.io/static/v1?label=Skill&message=Предобработка%20данных&color=blue)
----
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)  
+
+[![Визуализация данных](https://img.shields.io/static/v1?label=skill&message=Визуализация%20данных&color=F97F51)](#)
+[![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
+[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
+
+***

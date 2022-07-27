@@ -1,20 +1,21 @@
-[![PROJ_11](https://img.shields.io/badge/🔗%20PROJ-11-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11)
+[![PROJ_11](https://img.shields.io/badge/go%20to%20PROJ-11-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Прогнозирование количества заказов такси на следующий час"  
+# "Прогнозирование количества заказов такси на следующий час"  
 
-### Задачи проекта  
+## Задачи проекта  
 Разработка системы предсказания объема заказа.
 
-### Описание проекта
+## Описание проекта
 Компания такси собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Строится модель для такого предсказания.
 
 **Направление деятельности**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=blue)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
 
 **Навыки и инструменты**  
-![Pandas](https://img.shields.io/static/v1?label=Tool&message=Pandas&color=blue)
-![Python](https://img.shields.io/static/v1?label=Tool&message=Python&color=blue)
-![Sklearn](https://img.shields.io/static/v1?label=Tool&message=Sklearn&color=blue)
-![Машинное обучение](https://img.shields.io/static/v1?label=Skill&message=Машинное%20обучение&color=blue)
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)  
 
----
+[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+
+***
