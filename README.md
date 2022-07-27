@@ -1,4 +1,4 @@
-# YPDS_Projects
+# Yandex.Practicum Data Science Projects
 
 Учебные проекты курса по **Data Science** | **Яндекс Практикум**
 
