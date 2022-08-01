@@ -23,10 +23,10 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 ***
 
 [![PROJ_01](https://img.shields.io/badge/go%20to%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
-## "Исследование надёжности заёмщиков"  
+## "Bank Data Analysis: Borrower Reliability Research"  
 
-### Задачи проекта 
-На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок  
+### Description 
+Based on statistics on the paying capacity of clients, investigate whether the marital status and the number of the client's children affect the fact of repayment of the loan on time.
 
 ### Описание проекта
 Входные данные от кредитного отдела банка  — статистика о платёжеспособности клиентов. 
@@ -35,16 +35,18 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 Проанализировано влияние семейного положения и количества детей клиента на факт возврата кредита в срок. 
 Построена модель кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
-**Направление деятельности**  
+**Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
 
-**Навыки и инструменты**  
+**Tools and Skills**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![PyMystem3](https://img.shields.io/static/v1?label=tool&message=PyMystem3&color=cd6133)](#)  
 
 [![Лемматизация](https://img.shields.io/static/v1?label=skill&message=Лемматизация&color=1B9CFC)](#)
-[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
+[![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20preprocessing&color=B33771)](#)
+
+Data%20preprocessing
 
 ***
 
@@ -55,11 +57,11 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
 
 ### Описание проекта
-Проведен исследовательский анализ и предобработка данных для датасета с объявлениями о продаже квартир в Санкт-Петербурге.  
+Проведен исследовательский анализ и Data preprocessing для датасета с объявлениями о продаже квартир в Санкт-Петербурге.  
 Выявлены, влияние площади, потолков, количества комнат, даты объявления на цены квартир всех представленных населённых пунктов и центра Санкт-Петербурга для построения автоматизированной системы определения цен во избежание мошенничества и аномалий.  
 На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость
 объектов недвижимости разного типа, типичные параметры квартир, в зависимости от
-удаленности от центра. Проведена предобработка данных. Добавлены новые данные.  
+удаленности от центра. Проведена Data preprocessing. Добавлены новые данные.  
 Построены гистограммы, боксплоты, диаграммы рассеивания.
 
 **Направление деятельности**  
@@ -72,7 +74,7 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 
 [![Визуализация данных](https://img.shields.io/static/v1?label=skill&message=Визуализация%20данных&color=F97F51)](#)
 [![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
-[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
+[![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20preprocessing&color=B33771)](#)
 
 ***
 
@@ -133,7 +135,7 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 
 [![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
 [![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
-[![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
+[![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20preprocessing&color=B33771)](#)
 [![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
 
 ***
@@ -261,7 +263,7 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 
 ### Описание проекта
 Для защиты данных клиентов страховой компании разработаны методы преобразования данных, чтобы по ним было сложно восстановить персональную информацию. 
-Была проведена предобработка данных. Произведена проверка работы алгоритма модели линейной регрессии при перемножении на обратимую матрицу. Произведена проверка влияния перемножения на обратимую матрицу, а затем перемножения на обратную матрицу обратимой. Произведена проверка метрики R2 Линейной регрессии на идентичных данных - сначала исходных, затем умноженных на обратимую матрицу, размер которой равен числу признаков. Метрики полностью совпали. Можно сделать вывод, что алгоритм работает.
+Была проведена Data preprocessing. Произведена проверка работы алгоритма модели линейной регрессии при перемножении на обратимую матрицу. Произведена проверка влияния перемножения на обратимую матрицу, а затем перемножения на обратную матрицу обратимой. Произведена проверка метрики R2 Линейной регрессии на идентичных данных - сначала исходных, затем умноженных на обратимую матрицу, размер которой равен числу признаков. Метрики полностью совпали. Можно сделать вывод, что алгоритм работает.
 
 **Направление деятельности**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
