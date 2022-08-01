@@ -43,9 +43,10 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![PyMystem3](https://img.shields.io/static/v1?label=tool&message=PyMystem3&color=cd6133)](#)  
 
-[![Лемматизация](https://img.shields.io/static/v1?label=skill&message=Лемматизация&color=1B9CFC)](#)
+[![Lemmatization](https://img.shields.io/static/v1?label=skill&message=Lemmatization&color=1B9CFC)](#)
 [![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20Preprocessing&color=B33771)](#)
 
+Lemmatization
 
 ***
 
