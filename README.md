@@ -7,18 +7,18 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 
 ## Projects list:  
 - [![PROJ_01](https://img.shields.io/badge/🔗%20PROJ-01-success)](#bank-data-analysis-borrower-reliability-research) "Bank Data Analysis: Borrower reliability research"  
-- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](#) "Real Estate Market Analysis: Apartments for sale in St. Petersburg"  
-- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-03-success)](#) "Telecom Company Pt 1: Statistical Data Analysis. Determination of a profitable plan"
-- [![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](#) "Gamedev: Studying the patterns that determine the success of game platforms."
-- [![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](#) "Telecom Company Pt 2: Building a model to determine a suitable tariff" 
-- [![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](#) "Bank customer churn modeling"
-- [![PROJ_07](https://img.shields.io/badge/🔗%20PROJ-07-success)](#) "Choosing a region for the development of new oil fields"
-- [![PROJ_08](https://img.shields.io/badge/🔗%20PROJ-08-success)](#) "Building machine learning algorithm for a metalworking enterprise"
-- [![PROJ_09](https://img.shields.io/badge/🔗%20PROJ-09-success)](#) "Insurance Company: Development of an algorithm to protect customer data"
-- [![PROJ_10](https://img.shields.io/badge/🔗%20PROJ-10-success)](#) "Car price prediction model"
-- [![PROJ_11](https://img.shields.io/badge/🔗%20PROJ-11-success)](#) "Ride-hailing Company: Predicting the number of taxi orders"
-- [![PROJ_12](https://img.shields.io/badge/🔗%20PROJ-12-success)](#) "Natural Language Processing: Classifying comments"
-- [![PROJ_13](https://img.shields.io/badge/🔗%20PROJ-13-success)](#) "Optimization of electricity consumption in industry"
+- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](#real-estate-market-analysis-apartments-for-sale-in-st-petersburg) "Real Estate Market Analysis: Apartments for sale in St. Petersburg"  
+- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-03-success)](#telecom-company-pt-1-statistical-data-analysis-determination-of-a-profitable-plan) "Telecom Company Pt 1: Statistical Data Analysis. Determination of a profitable plan"
+- [![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](#gamedev-studying-the-patterns-that-determine-the-success-of-game-platforms) "Gamedev: Studying the patterns that determine the success of game platforms."
+- [![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](#telecom-company-pt-2-building-a-model-to-determine-a-suitable-tariff) "Telecom Company Pt 2: Building a model to determine a suitable tariff" 
+- [![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](#bank-customer-churn-modeling) "Bank customer churn modeling"
+- [![PROJ_07](https://img.shields.io/badge/🔗%20PROJ-07-success)](#choosing-a-region-for-the-development-of-new-oil-fields) "Choosing a region for the development of new oil fields"
+- [![PROJ_08](https://img.shields.io/badge/🔗%20PROJ-08-success)](#building-machine-learning-algorithm-for-a-metalworking-enterprise) "Building machine learning algorithm for a metalworking enterprise"
+- [![PROJ_09](https://img.shields.io/badge/🔗%20PROJ-09-success)](#insurance-company-development-of-an-algorithm-to-protect-customer-data) "Insurance Company: Development of an algorithm to protect customer data"
+- [![PROJ_10](https://img.shields.io/badge/🔗%20PROJ-10-success)](#car-price-prediction-model) "Car price prediction model"
+- [![PROJ_11](https://img.shields.io/badge/🔗%20PROJ-11-success)](#ride-hailing-company-predicting-the-number-of-taxi-orders) "Ride-hailing Company: Predicting the number of taxi orders"
+- [![PROJ_12](https://img.shields.io/badge/🔗%20PROJ-12-success)](#natural-language-processing-classifying-comments) "Natural Language Processing: Classifying comments"
+- [![PROJ_13](https://img.shields.io/badge/🔗%20PROJ-13-success)](#optimization-of-electricity-consumption-in-industry) "Optimization of electricity consumption in industry"
 
 ***
 
