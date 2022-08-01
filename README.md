@@ -44,9 +44,8 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 [![PyMystem3](https://img.shields.io/static/v1?label=tool&message=PyMystem3&color=cd6133)](#)  
 
 [![Лемматизация](https://img.shields.io/static/v1?label=skill&message=Лемматизация&color=1B9CFC)](#)
-[![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20preprocessing&color=B33771)](#)
+[![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20Preprocessing&color=B33771)](#)
 
-Data%20preprocessing
 
 ***
 
@@ -74,7 +73,7 @@ Data%20preprocessing
 
 [![Визуализация данных](https://img.shields.io/static/v1?label=skill&message=Визуализация%20данных&color=F97F51)](#)
 [![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
-[![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20preprocessing&color=B33771)](#)
+[![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20Preprocessing&color=B33771)](#)
 
 ***
 
@@ -135,7 +134,7 @@ Data%20preprocessing
 
 [![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
 [![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
-[![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20preprocessing&color=B33771)](#)
+[![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20Preprocessing&color=B33771)](#)
 [![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
 
 ***
