@@ -49,9 +49,9 @@ A credit scoring model has been built that evaluates the ability of a potential 
 ***
 
 [![PROJ_02](https://img.shields.io/badge/go%20to%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
-### "Real Estate Market Analysis: Apartments for sale in St. Petersburg"  
+## "Real Estate Market Analysis: Apartments for sale in St. Petersburg"  
  
-## Task  
+### Task  
 Based on data from the Yandex.Real estate service, determine the market value of real estate objects and typical parameters of apartments.
 
 ### Description
@@ -320,7 +320,7 @@ Added new data. Histograms, boxplots, scatterplots are constructed.
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 ## "Natural Language Processing: Classifying comments"  
 
-## Task  
+### Task  
 Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности.
 Обучить модель классифицировать комментарии на позитивные и негативные.
 
@@ -345,7 +345,7 @@ Added new data. Histograms, boxplots, scatterplots are constructed.
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 ## "Optimization of electricity consumption in industry"  
 
-## Task  
+### Task  
 Построить модель, которая предскажет температуру стали.
 
 ### Description
