@@ -29,10 +29,10 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 Based on statistics on the paying capacity of clients, investigate whether the marital status and the number of the client's children affect the fact of repayment of the loan on time.
 
 ### Description 
-Input data from the credit department of the bank - statistics on the solvency of customers.
-Cleaned up from outliers, missing data and duplicates, as well as converted different data formats. Replaced data types with those corresponding to the stored data. The lemmas in the column values ​​are highlighted and the data is categorized.
-The part of creditworthy clients has been determined.
-The influence of the marital status and the number of children of the client on the fact of repaying the loan on time is analyzed.
+Input data from the credit department of the bank - statistics on the solvency of customers.  
+Cleaned up from outliers, missing data and duplicates, as well as converted different data formats. Replaced data types with those corresponding to the stored data. The lemmas in the column values are highlighted and the data is categorized.  
+The part of creditworthy clients has been determined.  
+The influence of the marital status and the number of children of the client on the fact of repaying the loan on time is analyzed.  
 A credit scoring model has been built that evaluates the ability of a potential borrower to repay a loan to a bank.
 
 **Trends**  
@@ -55,9 +55,9 @@ A credit scoring model has been built that evaluates the ability of a potential 
 Based on data from the Yandex.Real estate service, determine the market value of real estate objects and typical parameters of apartments.
 
 ### Description
-Conducted research analysis and data preprocessing for a dataset with ads for the sale of apartments in St. Petersburg, Russia.
-The influence of the area, ceilings, number of rooms, the date of the ad on the prices of apartments in all the presented districts and the center of St. Petersburg was revealed to build an automated price determination system to avoid fraud and anomalies.
-Based on the Yandex.Realty service data, the market value was determined real estate objects of different types, typical parameters of apartments, depending on distance from the city center. 
+Conducted research analysis and data preprocessing for a dataset with ads for the sale of apartments in St. Petersburg, Russia.  
+The influence of the area, ceilings, number of rooms, the date of the ad on the prices of apartments in all the presented districts and the center of St. Petersburg was revealed to build an automated price determination system to avoid fraud and anomalies.  
+Based on the Yandex.Realty service data, the market value was determined real estate objects of different types, typical parameters of apartments, depending on distance from the city center.   
 Added new data. Histograms, boxplots, scatterplots are constructed.
 
 **Trends**  
@@ -78,8 +78,7 @@ Added new data. Histograms, boxplots, scatterplots are constructed.
 ## "Telecom Company Pt 1: Statistical Data Analysis. Determination of a profitable plan"
 
 ### Task  
-Необходимо сделать предварительный анализ тарифов на небольшой, 500 пользователей, выборке клиентов за 2018 год. Выборка содержит такие данные как: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил.  
-Проанализировав полученные данные и поведение клиентов, следует сделать вывод - какой тариф в итоге лучше.
+Based on the data of the mobile operator's customers, analyze customer behavior and find the optimal tariff
 
 ### Description
 Оператор мобильной связи выяснил: многие клиенты пользуются архивными тарифами.  
