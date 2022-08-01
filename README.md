@@ -23,7 +23,7 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 ***
 
 [![PROJ_01](https://img.shields.io/badge/go%20to%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
-## "Bank Data Analysis: Borrower Reliability Research"  
+## "Bank Data Analysis: Borrower reliability research"  
 
 ### Description 
 Based on statistics on the paying capacity of clients, investigate whether the marital status and the number of the client's children affect the fact of repayment of the loan on time.
@@ -42,7 +42,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 ***
 
 [![PROJ_02](https://img.shields.io/badge/go%20to%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
-### "Исследование объявлений о продаже квартир в Санкт-Петербурге"  
+### "Real Estate Market Analysis: Apartments for sale in St. Petersburg"  
  
 ## Задачи проекта  
 Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
@@ -70,7 +70,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 ***
 
 [![PROJ_03](https://img.shields.io/badge/go%20to%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) 
-## "Определение перспективного тарифа для телеком-компании"
+## "Telecom Company Pt 1: Statistical Data Analysis. Determination of a profitable plan"
 
 ### Задачи проекта  
 Необходимо сделать предварительный анализ тарифов на небольшой, 500 пользователей, выборке клиентов за 2018 год. Выборка содержит такие данные как: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил.  
@@ -99,7 +99,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 ***
 
 [![PROJ_04](https://img.shields.io/badge/go%20to%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04)
-## "Закономерности определяющие успешность компьютерной игры"
+## "Gamedev: Studying the patterns that determine the success of game platforms."
 
 ### Задачи проекта  
 Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры
@@ -133,7 +133,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![PROJ_05](https://img.shields.io/badge/go%20to%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Рекомендация тарифов для телеком-компании"  
+## "Telecom Company Pt 2: Building a model to determine a suitable tariff"  
 
 ### Задачи проекта  
 На основе данных клиентов оператора сотовой связи требуется построить модель которая выберет подходящий тариф.
@@ -159,7 +159,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![PROJ_06](https://img.shields.io/badge/go%20to%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Прогнозирование оттока клиентов банка"  
+## "Bank customer churn modeling"  
 
 ### Задачи проекта  
 Анализ оттока клиентов из банка для выбора стратегии (удержание старых клиентов или привлечение новых клиентов).
@@ -187,7 +187,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![PROJ_07](https://img.shields.io/badge/go%20to%20PROJ-07-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Выбор региона для разработки новых нефтяных месторождений"  
+## "Choosing a region for the development of new oil fields"  
 
 ### Задачи проекта  
 Решить в каком регионе добывать нефть. Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков.
@@ -220,7 +220,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![PROJ_08](https://img.shields.io/badge/go%20to%20PROJ-08-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Предсказание коэффициента восстановления золота из золотосодержащей руды"  
+## "Building machine learning algorithm for a metalworking enterprise"  
 
 ### Задачи проекта  
 Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды.
@@ -247,7 +247,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![PROJ_09](https://img.shields.io/badge/go%20to%20PROJ-09-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Разработка алгоритма для защиты данных"  
+## "Insurance Company: Development of an algorithm to protect customer data"  
 
 ### Задачи проекта  
 Методом преобразования данных защитить личную информацию клиентов страховой компании. 
@@ -270,7 +270,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![PROJ_10](https://img.shields.io/badge/go%20to%20PROJ-10-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Построение модели определения стоимости автомобиля"  
+## "Car price prediction model"  
 
 ### Задачи проекта  
 Разработка системы рекомендации стоимости автомобиля на основе его описания
@@ -291,7 +291,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![PROJ_11](https://img.shields.io/badge/go%20to%20PROJ-11-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Прогнозирование количества заказов такси на следующий час"  
+## "Ride-hailing Company: Predicting the number of taxi orders"  
 
 ### Задачи проекта  
 Разработка системы предсказания объема заказа.
@@ -313,7 +313,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![PROJ_12](https://img.shields.io/badge/go%20to%20PROJ-12-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_12)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Обучение модели классификации комментариев"  
+## "Natural Language Processing: Classifying comments"  
 
 ## Задачи проекта  
 Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности.
@@ -338,7 +338,7 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![PROJ_13](https://img.shields.io/badge/go%20to%20PROJ-13-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_13)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Оптимизация производственных расходов для металлургического комбината"  
+## "Optimization of electricity consumption in industry"  
 
 ## Задачи проекта  
 Построить модель, которая предскажет температуру стали.
