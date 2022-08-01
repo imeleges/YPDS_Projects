@@ -6,19 +6,19 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 
 
 ## Projects list:  
-- [![PROJ_01](https://img.shields.io/badge/🔗%20PROJ-01-success)](#исследование-надёжности-заёмщиков) "Bank Data Analysis: Borrower Reliability Research"  
-- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](#исследование-объявлений-о-продаже-квартир-в-санкт-петербурге) "Real Estate Market Analysis: Apartments For Sale in St. Petersburg"  
-- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-03-success)](#определение-перспективного-тарифа-для-телеком-компании) "Telecom Company Pt 1: Statistical Data Analysis. Determination of a profitable plan"
-- [![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](#закономерности-определяющие-успешность-компьютерной-игры) "Gamedev: Studying the Patterns that determine the success of game platforms."
-- [![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](#рекомендация-тарифов-для-телеком-компании) "Telecom Company Pt 2: Building a Model to Determine a Suitable Tariff" 
-- [![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](#прогнозирование-оттока-клиентов-банка) "Bank Customer Churn Modeling"
-- [![PROJ_07](https://img.shields.io/badge/🔗%20PROJ-07-success)](#выбор-региона-для-разработки-новых-нефтяных-месторождений) "Choosing a Region for the Development of New Oil Fields"
-- [![PROJ_08](https://img.shields.io/badge/🔗%20PROJ-08-success)](#предсказание-коэффициента-восстановления-золота-из-золотосодержащей-руды) "Building Machine Learning Algorithm for a metalworking enterprise"
-- [![PROJ_09](https://img.shields.io/badge/🔗%20PROJ-09-success)](#разработка-алгоритма-для-защиты-данных) "Insurance Company: Development of an Algorithm to Protect Customer Data"
-- [![PROJ_10](https://img.shields.io/badge/🔗%20PROJ-10-success)](#построение-модели-определения-стоимости-автомобиля) "Car Price Prediction Model"
-- [![PROJ_11](https://img.shields.io/badge/🔗%20PROJ-11-success)](#прогнозирование-количества-заказов-такси-на-следующий-час) "Ride-hailing Company: Predicting the Number of Taxi Orders"
-- [![PROJ_12](https://img.shields.io/badge/🔗%20PROJ-12-success)](#обучение-модели-классификации-комментариев) "Natural Language Processing: Classifying Comments"
-- [![PROJ_13](https://img.shields.io/badge/🔗%20PROJ-13-success)](#оптимизация-производственных-расходов-для-металлургического-комбината) "Optimization of Electricity Consumption in Industry"
+- [![PROJ_01](https://img.shields.io/badge/🔗%20PROJ-01-success)](#bank-data-analysis-borrower-reliability-research) "Bank Data Analysis: Borrower reliability research"  
+- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](#) "Real Estate Market Analysis: Apartments for sale in St. Petersburg"  
+- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-03-success)](#) "Telecom Company Pt 1: Statistical Data Analysis. Determination of a profitable plan"
+- [![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](#) "Gamedev: Studying the patterns that determine the success of game platforms."
+- [![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](#) "Telecom Company Pt 2: Building a model to determine a suitable tariff" 
+- [![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](#) "Bank customer churn modeling"
+- [![PROJ_07](https://img.shields.io/badge/🔗%20PROJ-07-success)](#) "Choosing a region for the development of new oil fields"
+- [![PROJ_08](https://img.shields.io/badge/🔗%20PROJ-08-success)](#) "Building machine learning algorithm for a metalworking enterprise"
+- [![PROJ_09](https://img.shields.io/badge/🔗%20PROJ-09-success)](#) "Insurance Company: Development of an algorithm to protect customer data"
+- [![PROJ_10](https://img.shields.io/badge/🔗%20PROJ-10-success)](#) "Car price prediction model"
+- [![PROJ_11](https://img.shields.io/badge/🔗%20PROJ-11-success)](#) "Ride-hailing Company: Predicting the number of taxi orders"
+- [![PROJ_12](https://img.shields.io/badge/🔗%20PROJ-12-success)](#) "Natural Language Processing: Classifying comments"
+- [![PROJ_13](https://img.shields.io/badge/🔗%20PROJ-13-success)](#) "Optimization of electricity consumption in industry"
 
 ***
 
@@ -27,13 +27,6 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 
 ### Description 
 Based on statistics on the paying capacity of clients, investigate whether the marital status and the number of the client's children affect the fact of repayment of the loan on time.
-
-### Описание проекта
-Входные данные от кредитного отдела банка  — статистика о платёжеспособности клиентов. 
-Очищены данные от выбросов, пропусков и дубликатов, а также преобразованы разные форматы данных. Заменены типы данных на соответствующие хранящимся данным. Удалены дубликаты. Выделены леммы в значениях столбца и категоризированны данные.
-Определена доля кредитоспособных клиентов.
-Проанализировано влияние семейного положения и количества детей клиента на факт возврата кредита в срок. 
-Построена модель кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
 **Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
@@ -45,8 +38,6 @@ Based on statistics on the paying capacity of clients, investigate whether the m
 
 [![Lemmatization](https://img.shields.io/static/v1?label=skill&message=Lemmatization&color=1B9CFC)](#)
 [![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20Preprocessing&color=B33771)](#)
-
-Lemmatization
 
 ***
 
