@@ -2,7 +2,7 @@
 
 Repository containing portfolio of **Data Analytics** | **Data Science** with **Machine Learning** projects completed during the training courses at **Yandex.Practicum**
 
-[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20ENG-8abd80)](https://github.com/imeleges/YPDS_Projects/blob/main/certificates/сertificate_yandex_data_scientist_ENG.png)  
+[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20ENG-8abd80)](https://github.com/imeleges/YPDS_Projects/tree/main/certificates/сertificate_yandex_data_scientist_ENG.png)  
 
 
 ## Projects list:  
