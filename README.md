@@ -81,10 +81,10 @@ Added new data. Histograms, boxplots, scatterplots are constructed.
 Based on the data of the mobile operator's customers, analyze customer behavior and find the optimal tariff
 
 ### Description
-Оператор мобильной связи выяснил: многие клиенты пользуются архивными тарифами.  
-Проведен предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора и рекомендованы оптимальные наборы услуг для пользователей.  
-Проверены гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов.  
-Определен выгодный тарифный план для корректировки рекламного бюджета.
+Telecom operator has found out that many customers use archival tariffs.
+After an initial analysis on a sample of customers of tariffs usage  and the behavior when using the operator's services was analyzed, and optimal sets of services for users were recommended.
+The hypotheses for the difference in the revenue on different tariffs and the difference in the revenue from Moscow and other regions were tested.
+A preferable tariff plan has been determined to adjust the advertising budget.
 
 **Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
@@ -109,13 +109,13 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 Using historical data on sales of computer games, user and expert ratings, genres and platforms, identify patterns that determine the success of a game
 
 ### Description
-Интернет-магазин продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы.  
-Выявлены параметры, определяющие успешность игры в разных регионах мира.  
-Выявлен потенциально популярный продукт и спланированы рекламные кампании.  
-Выбран актуальный период для анализа. Составлены портреты пользователей каждого региона.
-Проверены гипотезы: средние пользовательские рейтинги платформ Xbox One и PC одинаковые;
-средние пользовательские рейтинги жанров Action и Sports разные.  
-При анализе использовались критерий Стьюдента для независимых выборок.
+The online store sells computer games worldwide. Historical data from open sources is availible on game sales, user and game expert ratings, genres and platforms.
+The parameters that determine the success of the game in different regions of the world are revealed.
+A potentially popular product has been identified and advertising campaigns have been planned.
+The current period for analysis has been selected. Compiled portraits of users in each region.
+Hypotheses tested: the average user ratings of the Xbox One and PC platforms are the same;
+the average user ratings for the Action and Sports genres are different.
+The analysis used Student's t-test for independent samples.
 
 **Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
@@ -143,10 +143,10 @@ Using historical data on sales of computer games, user and expert ratings, genre
 Based on the previous data study, build the Machine Learning model for the classification problem, which finds a suitable tariff
 
 ### Description
-Разработана система, способная проанализировать поведение клиентов и предложить пользователям новый тариф.  
-Построена модель для задачи классификации, которая выберет подходящий тариф.  
-Построена модель с максимально большим значением accuracy.  
-Доля правильных ответов доведена до 0.75. Проверены accuracy на тестовой выборке.
+A system has been developed that can analyze customer behavior and offer users a new tariff.
+A model has been built for the classification problem, which will select the fitting tariff.
+A model was built with the highest accuracy value.
+The share of correct answers has been increased to 0.75. Accuracy tested on a test set.
 
 **Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
