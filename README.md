@@ -169,11 +169,9 @@ The share of correct answers has been increased to 0.75. Accuracy tested on a te
 Analysis of the outflow of clients from the bank for choosing a strategy (retaining old clients or attracting new clients)
 
 ### Description
-Из банка стали уходить клиенты каждый месяц.
-Спрогнозирована вероятность ухода клиента из банка в ближайшее время.
-Построена модель с предельно большим значением `F1-меры` с последующей проверкой на тестовой выборке. Доведена метрика до `0.59`.
-Дополнительно измерен `AUC-ROC`, соотнесен с `F1-мерой`.
-Обучение с учителем. Работа с несбалансированными данными.
+Customers began to leave the bank every month. 
+Dealing with unbalanced data a model was build to predict in the near future the probability of the client leaving the bank.
+Large value of the F1-measure was reached with subsequent verification on a test sample. Additionally measured AUC-ROC, correlated with F1-measure. 
 
 **Trends**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
