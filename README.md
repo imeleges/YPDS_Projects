@@ -106,7 +106,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Gamedev: Studying the patterns that determine the success of game platforms."
 
 ### Task  
-Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры
+Using historical data on sales of computer games, user and expert ratings, genres and platforms, identify patterns that determine the success of a game
 
 ### Description
 Интернет-магазин продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы.  
@@ -140,7 +140,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Telecom Company Pt 2: Building a model to determine a suitable tariff"  
 
 ### Task  
-На основе данных клиентов оператора сотовой связи требуется построить модель которая выберет подходящий тариф.
+Based on the previous data study, build the Machine Learning model for the classification problem, which finds a suitable tariff
 
 ### Description
 Разработана система, способная проанализировать поведение клиентов и предложить пользователям новый тариф.  
@@ -166,7 +166,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Bank customer churn modeling"  
 
 ### Task  
-Анализ оттока клиентов из банка для выбора стратегии (удержание старых клиентов или привлечение новых клиентов).
+Analysis of the outflow of clients from the bank for choosing a strategy (retaining old clients or attracting new clients)
 
 ### Description
 Из банка стали уходить клиенты каждый месяц.
@@ -194,7 +194,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Choosing a region for the development of new oil fields"  
 
 ### Task  
-Решить в каком регионе добывать нефть. Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков.
+Decide in which region to extract oil. Build a machine learning model that will help determine the region where mining will bring the most profit with the least risk of loss
 
 ### Description
 Для нефтедобывающей компании необходимо решить, где бурить новую скважину.
@@ -227,7 +227,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Building machine learning algorithm for a metalworking enterprise"  
 
 ### Task  
-Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды.
+Development of a model predicting the recovery rate of gold from gold ore
 
 ### Description
 Компания разрабатывает решения для эффективной работы золотодобывающей отрасли.
@@ -254,7 +254,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Insurance Company: Development of an algorithm to protect customer data"  
 
 ### Task  
-Методом преобразования данных защитить личную информацию клиентов страховой компании. 
+The method of data transformation to protect the personal information of the clients of the insurance company
 
 ### Description
 Для защиты данных клиентов страховой компании разработаны методы преобразования данных, чтобы по ним было сложно восстановить персональную информацию. 
@@ -277,7 +277,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Car price prediction model"  
 
 ### Task  
-Разработка системы рекомендации стоимости автомобиля на основе его описания
+Train the model to determine the market value of the car
 
 ### Description
 Сервис по продаже автомобилей с пробегом  разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. На основе исторические данные необходимо построить модель для определения стоимости автомобиля.
@@ -298,7 +298,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Ride-hailing Company: Predicting the number of taxi orders"  
 
 ### Task  
-Разработка системы предсказания объема заказа.
+Train a model to predict the number of taxi orders for the next hour
 
 ### Description
 Компания такси собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Строится модель для такого предсказания.
@@ -320,8 +320,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Natural Language Processing: Classifying comments"  
 
 ### Task  
-Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности.
-Обучить модель классифицировать комментарии на позитивные и негативные.
+Speed up the moderation of comments in the community by automating their toxicity assessment. Train the model to classify comments as positive and negative
 
 ### Description
 Интернет-магазин запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Требуется инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
@@ -345,7 +344,7 @@ Based on the data of the mobile operator's customers, analyze customer behavior 
 ## "Optimization of electricity consumption in industry"  
 
 ### Task  
-Построить модель, которая предскажет температуру стали.
+Optimization of production costs metallurgical plant by reducing energy consumption during steel processing
 
 ### Description
 Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. 
