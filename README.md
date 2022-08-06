@@ -23,17 +23,15 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 ***
 
 [![PROJ_01](https://img.shields.io/badge/go%20to%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
-## "Bank Data Analysis: Borrower reliability research"  
+## "Connection between loan borrower's features and chances of him paying back"  
 
 ### Task
-Based on statistics on the paying capacity of clients, investigate whether the marital status and the number of the client's children affect the fact of repayment of the loan on time.
+Based on bank clients' statistics related to returning the loans, investigate whether marital status or number of children affect the repayment probability of the loan on time
 
 ### Description 
-Input data from the credit department of the bank - statistics on the solvency of customers.  
-Cleaned up from outliers, missing data and duplicates, as well as converted different data formats. Replaced data types with those corresponding to the stored data. The lemmas in the column values are highlighted and the data is categorized.  
-The part of creditworthy clients has been determined.  
-The influence of the marital status and the number of children of the client on the fact of repaying the loan on time is analyzed.  
-A credit scoring model has been built that evaluates the ability of a potential borrower to repay a loan to a bank.
+Bank credit department has data on the solvency of their customers.  
+This project required cleaning data from outliers, processing missing values and duplicates, as well as data types conversion. Categorization of clients is done using lemmatization.
+A credit scoring model is built to evaluate the ability of a potential borrower to repay a loan to a bank.
 
 **Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
@@ -52,12 +50,12 @@ A credit scoring model has been built that evaluates the ability of a potential 
 ## "Real Estate Market Analysis: Apartments for sale in St. Petersburg"  
  
 ### Task  
-Based on data from the Yandex.Real estate service, determine the market value of real estate objects and typical parameters of apartments.
+Based on data from Yandex Real estate service, determine the cost of real estate listings based on their parameters
 
 ### Description
-Conducted research analysis and data preprocessing for a dataset with ads for the sale of apartments in St. Petersburg, Russia.  
-The influence of the area, ceilings, number of rooms, the date of the ad on the prices of apartments in all the presented districts and the center of St. Petersburg was revealed to build an automated price determination system to avoid fraud and anomalies.  
-Based on the Yandex.Realty service data, the market value was determined real estate objects of different types, typical parameters of apartments, depending on distance from the city center.   
+Conducted research analysis and data preprocessing for a dataset with apartments listed for sale in St. Petersburg, Russia.  
+Apartment features explored: area in square meters, ceiling height, number of rooms, publishing date and price  in all the presented districts and the center of St. Petersburg The influence of the was revealed to build an automated price determination system to avoid fraud and anomalies.  
+Based on the Yandex.Realty service data, the market value was determined real estate objects of different types, typical parameters of apartments, depending on distance from the city center.
 Added new data. Histograms, boxplots, scatterplots are constructed.
 
 **Trends**  
