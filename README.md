@@ -97,8 +97,8 @@ A preferable tariff plan has been determined to adjust the advertising budget.
 [![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)
 [![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)  
 
-[![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
-[![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
+[![Descriptive statistics](https://img.shields.io/static/v1?label=skill&message=Descriptive%20statistics&color=58B19F)](#)
+[![Statistical hypothesis testing](https://img.shields.io/static/v1?label=skill&message=Statistical%20hypothesis%20testing&color=3B3B98)](#)
 
 ***
 
@@ -128,8 +128,8 @@ The analysis used Student's t-test for independent samples.
 [![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)
 [![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
 
-[![Описательная статистика](https://img.shields.io/static/v1?label=skill&message=Описательная%20статистика&color=58B19F)](#)
-[![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
+[![Descriptive statistics](https://img.shields.io/static/v1?label=skill&message=Descriptive%20statistics&color=58B19F)](#)
+[![Statistical hypothesis testing](https://img.shields.io/static/v1?label=skill&message=Statistical%20hypothesis%20testing&color=3B3B98)](#)
 [![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20Preprocessing&color=B33771)](#)
 [![Exploratory data analysis](https://img.shields.io/static/v1?label=skill&message=Exploratory%20Data%20Analysis&color=82589F)](#)
 
@@ -157,7 +157,7 @@ The share of correct answers has been increased to 0.75. Accuracy tested on a te
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)  
 
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
 
 ***
 
@@ -183,7 +183,7 @@ Large value of the F1-measure was reached with subsequent verification on a test
 [![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
 [![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
 
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
 
 ***
 
@@ -215,7 +215,7 @@ Part of the research is potential profit and risk assessment using `Bootstrap` m
 [![Bootstrap](https://img.shields.io/static/v1?label=tool&message=Bootstrap&color=ffb142)](#)
 [![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)  
 
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
 
 ***
 
@@ -242,7 +242,7 @@ The model is developed to help optimize production by assessing ore quality to a
 [![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)
 [![Seaborn](https://img.shields.io/static/v1?label=tool&message=Seaborn&color=ff5252)](#)  
 
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
 
 ***
 
@@ -265,7 +265,7 @@ This project required data preprocessing. The linear regression model algorythm 
 [![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
 [![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
 
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
 
 ***
 
@@ -286,7 +286,7 @@ A company selling used cars is developing an app. One of the features attracting
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)  
 
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
 
 ***
 
@@ -308,7 +308,7 @@ A taxi hailing services company has historical data of rides ordered from the ai
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)  
 
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
 
 ***
 
@@ -332,7 +332,7 @@ An online retail store launched a new feature: product description edit can now 
 [![nltk](https://img.shields.io/static/v1?label=tool&message=nltk&color=474787)](#)
 [![tf-idf](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=227093)](#)  
 
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
 
 ***
 
@@ -353,7 +353,7 @@ To adjust production costs the smeltery management needs to reduce electricity c
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)  
 
-[![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
 
 ***
 
