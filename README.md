@@ -192,17 +192,16 @@ Large value of the F1-measure was reached with subsequent verification on a test
 ## "Choosing a region for the development of new oil fields"  
 
 ### Task  
-Decide in which region to extract oil. Build a machine learning model that will help determine the region where mining will bring the most profit with the least risk of loss
+Selecting the most profitable regions for oil extraction. Building a machine learning model helping determine the area where drilling will bring the most profit with the least risk of loss.
 
 ### Description
-Для нефтедобывающей компании необходимо решить, где бурить новую скважину.
-Собраны характеристики пробы нефти для скважин: качество нефти и объём её запасов по трем регионам. Характеристики для каждой скважины в регионе уже известны.
+An oil company needs to make decion on developing the next well location.
+The existing data is oil samples' characteristics for varoius wells. Data contains oil quality parametres and oil reserves information in three regions. Characteristics of each well in the region are already known.
 
-Необходимо построить модель машинного обучения для предсказания объёма запасов в новых скважинах.
-Определить регионы с максимальной суммарной прибылью отобранных скважин.
-Построенную модель использоваться для определения региона, где добыча принесёт наибольшую прибыль.
+A machine learning model forecasts oil reserves in new wells.
+The model assists in picking the region with most profitable set of wells to be drilled.
 
-Результаты исследования проанализировать техникой `Bootstrap` на возможную прибыль и риски
+Part of the research is potential profit and risk assessment using `Bootstrap` methodology.
 
 **Trends**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
@@ -225,12 +224,12 @@ Decide in which region to extract oil. Build a machine learning model that will 
 ## "Building machine learning algorithm for a metalworking enterprise"  
 
 ### Task  
-Development of a model predicting the recovery rate of gold from gold ore
+Building a model predicting recovery rate for gold from gold ore
 
 ### Description
-Компания разрабатывает решения для эффективной работы золотодобывающей отрасли.
-Построена модель, предсказывающая коэффициент восстановления золота из золотосодержащей руды. Проанализированы данные с параметрами добычи и очистки.
-Построена и обучена модель, помогающая оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
+A gold mining company needs a solution to perfect its efficiency.
+A model forecasting gold recovery rate is created using ore extraction and refinement parametres data.
+The model is developed to help optimize production by assessing ore quality to avoid financial losses on ineffective operations.
 
 **Trends**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
@@ -252,11 +251,11 @@ Development of a model predicting the recovery rate of gold from gold ore
 ## "Insurance Company: Development of an algorithm to protect customer data"  
 
 ### Task  
-The method of data transformation to protect the personal information of the clients of the insurance company
+Data transformation method for the insurance company clients' personal information protection
 
 ### Description
-Для защиты данных клиентов страховой компании разработаны методы преобразования данных, чтобы по ним было сложно восстановить персональную информацию. 
-Была проведена Data preprocessing. Произведена проверка работы алгоритма модели линейной регрессии при перемножении на обратимую матрицу. Произведена проверка влияния перемножения на обратимую матрицу, а затем перемножения на обратную матрицу обратимой. Произведена проверка метрики R2 Линейной регрессии на идентичных данных - сначала исходных, затем умноженных на обратимую матрицу, размер которой равен числу признаков. Метрики полностью совпали. Можно сделать вывод, что алгоритм работает.
+An insurance company needs to protect its customers information using data transformation methods. This helps to prevent sensitive data from being decrypted. 
+This project required data preprocessing. The linear regression model algorythm was validated by multiplying the results on an invertible matrix. Conversely, multiplication on an inverse matrix of the invertible matrix proved the model works correctly. R2 score for linear regression model was measured on indentical data: initial data first, then data multiplied on invertible matrix (size of the features count). Metrics matched perfectly which means the algorythm works.
 
 **Trends**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
@@ -275,10 +274,10 @@ The method of data transformation to protect the personal information of the cli
 ## "Car price prediction model"  
 
 ### Task  
-Train the model to determine the market value of the car
+Train the model to determine the market value of the car based on its parametres
 
 ### Description
-Сервис по продаже автомобилей с пробегом  разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. На основе исторические данные необходимо построить модель для определения стоимости автомобиля.
+A company selling used cars is developing an app. One of the features attracting new clients is functionality of estimating a car's worth based on its features and characteristics. A car cost forcasting model was created using historical data.
 
 **Trends**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
@@ -296,10 +295,10 @@ Train the model to determine the market value of the car
 ## "Ride-hailing Company: Predicting the number of taxi orders"  
 
 ### Task  
-Train a model to predict the number of taxi orders for the next hour
+Train a model to predict taxi ride demand for the next hour
 
 ### Description
-Компания такси собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Строится модель для такого предсказания.
+A taxi hailing services company has historical data of rides ordered from the airport area. Model was built to forecast taxi demand for the next hour. This is to help balance amount of cars around the airport and have the right amount of drivers in the area for peak and off peak hours.
 
 **Trends**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
@@ -318,10 +317,10 @@ Train a model to predict the number of taxi orders for the next hour
 ## "Natural Language Processing: Classifying comments"  
 
 ### Task  
-Speed up the moderation of comments in the community by automating their toxicity assessment. Train the model to classify comments as positive and negative
+Speeding up the moderation of product desctiption commentaries on an ecommerce website by automating their tone assessment. Training the model to classify comments as positive or negative
 
 ### Description
-Интернет-магазин запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Требуется инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
+An online retail store launched a new feature: product description edit can now suggested by website users similar to wiki communities. Other users comment on proposed changes. A model developed to detect 'toxic' commentaries to be moderated.
 
 **Trends**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
@@ -339,13 +338,13 @@ Speed up the moderation of comments in the community by automating their toxicit
 
 [![PROJ_13](https://img.shields.io/badge/go%20to%20PROJ-13-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_13)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Optimization of electricity consumption in industry"  
+## "A plant electricity consumption optimization"  
 
 ### Task  
-Optimization of production costs metallurgical plant by reducing energy consumption during steel processing
+Metallurgical plant production costs optimization by reducing energy consumption during steel processing
 
 ### Description
-Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. 
+To adjust production costs the smeltery management needs to reduce electricity consumption during the steel processing.
 
 **Trends**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
@@ -359,7 +358,7 @@ Optimization of production costs metallurgical plant by reducing energy consumpt
 ***
 
 
-Все проекты в этом репозитории являются моими личными работами по учебным заданиям на курсе **Data Science** от **Яндекс.Практикума**.
-Проекты были сданны и одобренны ревьюерами, а их комментарии были удалены для визуальной чистоты проекта.  
+All work in this repository are my project created as study cases during the online bootcamp  **Data Science** by **Yandex.Practicum**.
+All code was validated by a code reviewer whose commentaries were deleted to keep the projects neat.  
 
-Каждый проект выпонен в `Jupyter Notebook` и  имеет расширение файла `.ipynb`. В каждом проекте можно найти какие задачи были поставленны, Description, Trends, а так же навыки и инструменны.
+Each case study was done in the `Jupyter Notebook` environment and is a `.ipynb` notebook. Every project has a detailed tasks description, skills and tools used.
