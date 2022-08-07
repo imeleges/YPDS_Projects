@@ -47,16 +47,16 @@ A credit scoring model is built to evaluate the ability of a potential borrower 
 ***
 
 [![PROJ_02](https://img.shields.io/badge/go%20to%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
-## "Real Estate Market Analysis: Apartments for sale in St. Petersburg"  
+## "Fraud prevention in Real Estate listings"  
  
 ### Task  
-Based on data from Yandex Real estate service, determine the cost of real estate listings based on their parameters
+Based on data from a real estate service for St. Petersburg, Russia, determine the cost of listings based on their parameters to delect fraudulent ones
 
 ### Description
-Conducted research analysis and data preprocessing for a dataset with apartments listed for sale in St. Petersburg, Russia.  
-Apartment features explored: area in square meters, ceiling height, number of rooms, publishing date and price  in all the presented districts and the center of St. Petersburg The influence of the was revealed to build an automated price determination system to avoid fraud and anomalies.  
-Based on the Yandex.Realty service data, the market value was determined real estate objects of different types, typical parameters of apartments, depending on distance from the city center.
-Added new data. Histograms, boxplots, scatterplots are constructed.
+Conducted research analysis and data preprocessing for a dataset with apartments listed for sale.
+To determine anomalies that might indicate fraud flat features explored: distance from the city center, area in square meters, ceiling height, number of rooms, district, publishing date and price.
+Market value of real estate objects was determined uwing Yandex Real Estate Service platform data.
+Feature engineering, histograms, boxplots, scatterplots to explore features affecting the price.
 
 **Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
@@ -73,16 +73,16 @@ Added new data. Histograms, boxplots, scatterplots are constructed.
 ***
 
 [![PROJ_03](https://img.shields.io/badge/go%20to%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) 
-## "Telecom Company Pt 1: Statistical Data Analysis. Determination of a profitable plan"
+## "Telecom Company Part 1: Statistical Data Analysis. Determination of a profitable tariff plan"
 
 ### Task  
-Based on the data of the mobile operator's customers, analyze customer behavior and find the optimal tariff
+Based on a mobile network provider's customer behavior data, recommend the tariff that brings most profit
 
 ### Description
-Telecom operator has found out that many customers use archival tariffs.
-After an initial analysis on a sample of customers of tariffs usage  and the behavior when using the operator's services was analyzed, and optimal sets of services for users were recommended.
-The hypotheses for the difference in the revenue on different tariffs and the difference in the revenue from Moscow and other regions were tested.
-A preferable tariff plan has been determined to adjust the advertising budget.
+A telecom operator clients use outdated tariffs.
+Sample customers' tariff plan usage analysis helped to find suitable plan recommendations for users.
+A/B-test results showed statistically significant revenue difference between two tariffs. Another hypothesis checked with A/B-test - higher revenue from Moscow clients and other regions combined.
+To adjust the advertisement budget a more profitable tariff plan has been determined and advised to the marrketing team.
 
 **Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
@@ -101,19 +101,17 @@ A preferable tariff plan has been determined to adjust the advertising budget.
 ***
 
 [![PROJ_04](https://img.shields.io/badge/go%20to%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04)
-## "Gamedev: Studying the patterns that determine the success of game platforms."
+## "Gamedev: Studying the patterns that determine videogame platform success"
 
 ### Task  
-Using historical data on sales of computer games, user and expert ratings, genres and platforms, identify patterns that determine the success of a game
+Using historical user and expert ratings date, genres and number of copied sold for various platforms, identify patterns that contribute success of a game
 
 ### Description
-The online store sells computer games worldwide. Historical data from open sources is availible on game sales, user and game expert ratings, genres and platforms.
-The parameters that determine the success of the game in different regions of the world are revealed.
-A potentially popular product has been identified and advertising campaigns have been planned.
-The current period for analysis has been selected. Compiled portraits of users in each region.
-Hypotheses tested: the average user ratings of the Xbox One and PC platforms are the same;
-the average user ratings for the Action and Sports genres are different.
-The analysis used Student's t-test for independent samples.
+An online computer games store has customers worldwide. Historical data about games from open sources is available to identify a potentially popular product. This helps to plan advertising campaigns.
+Games that are the best bet for being popular and bring most sales are selected. Customer preferences for various regions of the world are noted.
+A/B-test results revealed that average user ratings between platforms Xbox One and PC do not have statistically significant difference.
+Another A/B-test showed that average user ratings between genres Action and Sports are different.
+T-test for independent samples.
 
 **Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
@@ -135,16 +133,15 @@ The analysis used Student's t-test for independent samples.
 
 [![PROJ_05](https://img.shields.io/badge/go%20to%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-## "Telecom Company Pt 2: Building a model to determine a suitable tariff"  
+## "Telecom Company Part 2: A tariff recommendation model "  
 
 ### Task  
 Based on the previous data study, build the Machine Learning model for the classification problem, which finds a suitable tariff
 
 ### Description
-A system has been developed that can analyze customer behavior and offer users a new tariff.
-A model has been built for the classification problem, which will select the fitting tariff.
-A model was built with the highest accuracy value.
-The share of correct answers has been increased to 0.75. Accuracy tested on a test set.
+A system recommending users a more suitable tariff based on their data usage, amount of calls and sms.
+A classification model with the highest accuracy value is built to select the tariff to be suggested to the user.
+Correct ratio answers raised to 0.75. Accuracy tested on the test sample.
 
 **Trends**  
 [![Data Analyst](https://img.shields.io/static/v1?label=trend&message=Data%20Analyst&color=218c74)](#)
@@ -164,12 +161,12 @@ The share of correct answers has been increased to 0.75. Accuracy tested on a te
 ## "Bank customer churn modeling"  
 
 ### Task  
-Analysis of the outflow of clients from the bank for choosing a strategy (retaining old clients or attracting new clients)
+Analyse data of clients terminating their contract with the bank and to choose strategy of retainung them or attracting new clients
 
 ### Description
-Customers began to leave the bank every month. 
-Dealing with unbalanced data a model was build to predict in the near future the probability of the client leaving the bank.
-Large value of the F1-measure was reached with subsequent verification on a test sample. Additionally measured AUC-ROC, correlated with F1-measure. 
+More clients leave the bank every month. 
+A model is build using unbalanced data to predict the probability of a client leaving the bank in near future.
+High F1 sroce was reached with subsequent verification on a test sample. Additionally AUC-ROC score was measured, correlated with F1 score. 
 
 **Trends**  
 [![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
