@@ -1,8 +1,9 @@
 # Yandex Practicum Data Science Projects
 
 <p align="center">
-  <img src="https://github.com/imeleges/YPDS_Projects/tree/main/img/yandex_practicum.png" />
+  <img src="https://github.com/imeleges/YPDS_Projects/blob/main/img/yandex_practicum.png?raw=true" />
 </p>
+
 
 Repository containing portfolio of **Data Analytics** | **Data Science** with **Machine Learning** projects completed during the training courses at **Yandex.Practicum**
 
