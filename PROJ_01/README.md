@@ -22,6 +22,7 @@ A credit scoring model is built to evaluate the ability of a potential borrower 
 
 <details>
 <summary>`RUS`: Описание проекта на русском языке</summary>
+
 # "Исследование надёжности заёмщиков"  
 
 ## Задачи проекта 
