@@ -20,6 +20,8 @@ A credit scoring model is built to evaluate the ability of a potential borrower 
 [![Lemmatization](https://img.shields.io/static/v1?label=skill&message=Lemmatization&color=1B9CFC)](#)
 [![Data preprocessing](https://img.shields.io/static/v1?label=skill&message=Data%20Preprocessing&color=B33771)](#)
 
+*** 
+
 <details>
 <summary>`RUS`: Описание проекта на русском языке</summary>
 
