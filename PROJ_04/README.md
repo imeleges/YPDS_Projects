@@ -1,5 +1,9 @@
 [![PROJ_04](https://img.shields.io/badge/open%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04/determining_game_success_patterns.ipynb)
-# "Закономерности определяющие успешность компьютерной игры"
+
+<details>
+<summary>RUS: Описание проекта на русском языке</summary>
+
+## "Закономерности определяющие успешность компьютерной игры"
 
 ## Задачи проекта  
 Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры
@@ -28,5 +32,7 @@
 [![Проверка статистических гипотез](https://img.shields.io/static/v1?label=skill&message=Проверка%20статистических%20гипотез&color=3B3B98)](#)
 [![Предобработка данных](https://img.shields.io/static/v1?label=skill&message=Предобработка%20данных&color=B33771)](#)
 [![Исследовательский анализ данных](https://img.shields.io/static/v1?label=skill&message=Исследовательский%20анализ%20данных&color=82589F)](#)
+
+</details>
 
 ***

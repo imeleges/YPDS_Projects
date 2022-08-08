@@ -1,6 +1,10 @@
 [![PROJ_05](https://img.shields.io/badge/open%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05/cellular_tariffs_recommendations.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-# "Рекомендация тарифов для телеком-компании"  
+
+<details>
+<summary>RUS: Описание проекта на русском языке</summary>
+
+## "Рекомендация тарифов для телеком-компании"  
 
 ## Задачи проекта  
 На основе данных клиентов оператора сотовой связи требуется построить модель которая выберет подходящий тариф.
@@ -21,5 +25,7 @@
 [![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)  
 
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+
+</details>
 
 ***

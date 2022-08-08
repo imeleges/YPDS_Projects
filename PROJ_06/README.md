@@ -1,6 +1,10 @@
 [![PROJ_06](https://img.shields.io/badge/open%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06/forecasting_the_churn_of_betabank_customers.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-# "Прогнозирование оттока клиентов банка"  
+
+<details>
+<summary>RUS: Описание проекта на русском языке</summary>
+
+## "Прогнозирование оттока клиентов банка"  
 
 ## Задачи проекта  
 Анализ оттока клиентов из банка для выбора стратегии (удержание старых клиентов или привлечение новых клиентов).
@@ -23,5 +27,7 @@
 [![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
 
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+
+</details>
 
 ***

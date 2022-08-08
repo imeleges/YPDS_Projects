@@ -1,6 +1,10 @@
 [![PROJ_07](https://img.shields.io/badge/open%20PROJ-07-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07/new_oilwells_research.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-# "Выбор региона для разработки новых нефтяных месторождений"  
+
+<details>
+<summary>RUS: Описание проекта на русском языке</summary>
+
+## "Выбор региона для разработки новых нефтяных месторождений"  
 
 ## Задачи проекта  
 Решить в каком регионе добывать нефть. Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков.
@@ -28,5 +32,7 @@
 [![SciPy](https://img.shields.io/static/v1?label=tool&message=SciPy&color=34ace0)](#)  
 
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+
+</details>
 
 ***

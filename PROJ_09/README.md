@@ -1,6 +1,10 @@
 [![PROJ_09](https://img.shields.io/badge/open%20PROJ-09-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09/customer_data_protection.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-# "Разработка алгоритма для защиты данных"  
+
+<details>
+<summary>RUS: Описание проекта на русском языке</summary>
+
+## "Разработка алгоритма для защиты данных"  
 
 ## Задачи проекта  
 Методом преобразования данных защитить личную информацию клиентов страховой компании. 
@@ -18,5 +22,7 @@
 [![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
 
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+
+</details>
 
 ***

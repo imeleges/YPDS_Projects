@@ -1,4 +1,5 @@
 [![PROJ_01](https://img.shields.io/badge/open%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/blob/main/PROJ_01/borrowers_reliability_research.ipynb)  
+
 ## "Connection between loan borrower's features and chances of him paying back"  
 
 ### Task
@@ -25,7 +26,7 @@ A credit scoring model is built to evaluate the ability of a potential borrower 
 <details>
 <summary>RUS: Описание проекта на русском языке</summary>
 
-# "Исследование надёжности заёмщиков"  
+## "Исследование надёжности заёмщиков"  
 
 ## Задачи проекта 
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок  

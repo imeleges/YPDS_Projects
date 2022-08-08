@@ -1,6 +1,10 @@
 [![PROJ_11](https://img.shields.io/badge/open%20PROJ-11-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11/forecasting_taxi_orders.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-# "Прогнозирование количества заказов такси на следующий час"  
+
+<details>
+<summary>RUS: Описание проекта на русском языке</summary>
+
+## "Прогнозирование количества заказов такси на следующий час"  
 
 ## Задачи проекта  
 Разработка системы предсказания объема заказа.
@@ -17,5 +21,7 @@
 [![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)  
 
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+
+</details>
 
 ***

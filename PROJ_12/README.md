@@ -1,6 +1,10 @@
 [![PROJ_12](https://img.shields.io/badge/open%20PROJ-12-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_12/comment_classification.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
-# "Обучение модели классификации комментариев"  
+
+<details>
+<summary>RUS: Описание проекта на русском языке</summary>
+
+## "Обучение модели классификации комментариев"  
 
 ## Задачи проекта  
 Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности.
@@ -20,5 +24,7 @@
 [![tf-idf](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=227093)](#)  
 
 [![Машинное обучение](https://img.shields.io/static/v1?label=skill&message=Машинное%20обучение&color=blue)](#)
+
+</details>
 
 ***
