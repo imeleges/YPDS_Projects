@@ -23,6 +23,7 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 ***
 
 [![PROJ_01](https://img.shields.io/badge/go%20to%20PROJ-01-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_01)  
+
 ## "Connection between loan borrower's features and chances of him paying back"  
 
 ### Task
@@ -47,6 +48,7 @@ A credit scoring model is built to evaluate the ability of a potential borrower 
 ***
 
 [![PROJ_02](https://img.shields.io/badge/go%20to%20PROJ-02-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_02) 
+
 ## "Fraud prevention in Real Estate listings"  
  
 ### Task  
@@ -73,6 +75,7 @@ Feature engineering, histograms, boxplots, scatterplots to explore features affe
 ***
 
 [![PROJ_03](https://img.shields.io/badge/go%20to%20PROJ-03-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_03) 
+
 ## "Telecom Company Part 1: Statistical Data Analysis. Determination of a profitable tariff plan"
 
 ### Task  
@@ -101,6 +104,7 @@ To adjust the advertisement budget a more profitable tariff plan has been determ
 ***
 
 [![PROJ_04](https://img.shields.io/badge/go%20to%20PROJ-04-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_04)
+
 ## "Gamedev: Studying the patterns that determine videogame platform success"
 
 ### Task  
@@ -133,6 +137,7 @@ T-test for independent samples.
 
 [![PROJ_05](https://img.shields.io/badge/go%20to%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+
 ## "Telecom Company Part 2: A tariff recommendation model "  
 
 ### Task  
@@ -158,6 +163,7 @@ Correct ratio answers raised to 0.75. Accuracy tested on the test sample.
 
 [![PROJ_06](https://img.shields.io/badge/go%20to%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+
 ## "Bank customer churn modeling"  
 
 ### Task  
@@ -184,6 +190,7 @@ High F1 sroce was reached with subsequent verification on a test sample. Additio
 
 [![PROJ_07](https://img.shields.io/badge/go%20to%20PROJ-07-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_07)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+
 ## "Choosing a region for the development of new oil fields"  
 
 ### Task  
@@ -216,6 +223,7 @@ Part of the research is potential profit and risk assessment using `Bootstrap` m
 
 [![PROJ_08](https://img.shields.io/badge/go%20to%20PROJ-08-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_08)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+
 ## "Building machine learning algorithm for a metalworking enterprise"  
 
 ### Task  
@@ -243,6 +251,7 @@ The model is developed to help optimize production by assessing ore quality to a
 
 [![PROJ_09](https://img.shields.io/badge/go%20to%20PROJ-09-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+
 ## "Insurance Company: Development of an algorithm to protect customer data"  
 
 ### Task  
@@ -266,6 +275,7 @@ This project required data preprocessing. The linear regression model algorythm 
 
 [![PROJ_10](https://img.shields.io/badge/go%20to%20PROJ-10-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_10)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+
 ## "Car price prediction model"  
 
 ### Task  
@@ -287,6 +297,7 @@ A company selling used cars is developing an app. One of the features attracting
 
 [![PROJ_11](https://img.shields.io/badge/go%20to%20PROJ-11-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_11)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+
 ## "Ride-hailing Company: Predicting the number of taxi orders"  
 
 ### Task  
@@ -309,6 +320,7 @@ A taxi hailing services company has historical data of rides ordered from the ai
 
 [![PROJ_12](https://img.shields.io/badge/go%20to%20PROJ-12-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_12)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+
 ## "Natural Language Processing: Classifying comments"  
 
 ### Task  
@@ -333,6 +345,7 @@ An online retail store launched a new feature: product description edit can now 
 
 [![PROJ_13](https://img.shields.io/badge/go%20to%20PROJ-13-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_13)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
+
 ## "A plant electricity consumption optimization"  
 
 ### Task  

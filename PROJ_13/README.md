@@ -1,6 +1,25 @@
 [![PROJ_13](https://img.shields.io/badge/open%20PROJ-13-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_13/optimization_of_production_costs.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 
+## "A plant electricity consumption optimization"  
+
+### Task  
+Metallurgical plant production costs optimization by reducing energy consumption during steel processing
+
+### Description
+To adjust production costs the smeltery management needs to reduce electricity consumption during the steel processing.
+
+**Trends**  
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
+
+**Tools and Skills**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)  
+
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
+
+***
+
 <details>
 <summary>RUS: Описание проекта на русском языке</summary>
 

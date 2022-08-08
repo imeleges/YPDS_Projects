@@ -1,6 +1,30 @@
 [![PROJ_06](https://img.shields.io/badge/open%20PROJ-06-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_06/forecasting_the_churn_of_betabank_customers.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 
+## "Bank customer churn modeling"  
+
+### Task  
+Analyse data of clients terminating their contract with the bank and to choose strategy of retainung them or attracting new clients
+
+### Description
+More clients leave the bank every month. 
+A model is build using unbalanced data to predict the probability of a client leaving the bank in near future.
+High F1 sroce was reached with subsequent verification on a test sample. Additionally AUC-ROC score was measured, correlated with F1 score. 
+
+**Trends**  
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
+
+**Tools and Skills**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=Matplotlib&color=706fd3)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
+
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
+
+***
+
 <details>
 <summary>RUS: Описание проекта на русском языке</summary>
 

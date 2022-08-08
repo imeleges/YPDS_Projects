@@ -1,6 +1,27 @@
 [![PROJ_09](https://img.shields.io/badge/open%20PROJ-09-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_09/customer_data_protection.ipynb)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 
+## "Insurance Company: Development of an algorithm to protect customer data"  
+
+### Task  
+Data transformation method for the insurance company clients' personal information protection
+
+### Description
+An insurance company needs to protect its customers information using data transformation methods. This helps to prevent sensitive data from being decrypted. 
+This project required data preprocessing. The linear regression model algorythm was validated by multiplying the results on an invertible matrix. Conversely, multiplication on an inverse matrix of the invertible matrix proved the model works correctly. R2 score for linear regression model was measured on indentical data: initial data first, then data multiplied on invertible matrix (size of the features count). Metrics matched perfectly which means the algorythm works.
+
+**Trends**  
+[![Data Scientist](https://img.shields.io/static/v1?label=trend&message=Data%20Scientist&color=706fd3)](#)
+
+**Tools and Skills**  
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![Scikit-learn](https://img.shields.io/static/v1?label=tool&message=Sklearn&color=ff793f)](#)
+[![NumPy](https://img.shields.io/static/v1?label=tool&message=NumPy&color=ffda79)](#)  
+
+[![Machine learning](https://img.shields.io/static/v1?label=skill&message=Machine%20learning&color=blue)](#)
+
+***
+
 <details>
 <summary>RUS: Описание проекта на русском языке</summary>
 
