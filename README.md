@@ -11,11 +11,11 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 
 
 ## Projects list:  
-- [![PROJ_01](https://img.shields.io/badge/🔗%20PROJ-01-success)](#bank-data-analysis-borrower-reliability-research) "Bank Data Analysis: Borrower reliability research"  
-- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](#real-estate-market-analysis-apartments-for-sale-in-st-petersburg) "Real Estate Market Analysis: Apartments for sale in St. Petersburg"  
-- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-03-success)](#telecom-company-pt-1-statistical-data-analysis-determination-of-a-profitable-plan) "Telecom Company Pt 1: Statistical Data Analysis. Determination of a profitable plan"
-- [![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](#gamedev-studying-the-patterns-that-determine-the-success-of-game-platforms) "Gamedev: Studying the patterns that determine the success of game platforms."
-- [![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](#telecom-company-pt-2-building-a-model-to-determine-a-suitable-tariff) "Telecom Company Pt 2: Building a model to determine a suitable tariff" 
+- [![PROJ_01](https://img.shields.io/badge/🔗%20PROJ-01-success)](#bank-data-analysis-borrower-reliability-research) "Bank Data Analysis: Connection between loan borrower's features and chances of him paying back"  
+- [![PROJ_02](https://img.shields.io/badge/🔗%20PROJ-02-success)](#real-estate-market-analysis-apartments-for-sale-in-st-petersburg) "Real Estate Market Analysis: Fraud prevention in Real Estate listings"  
+- [![PROJ_03](https://img.shields.io/badge/🔗%20PROJ-03-success)](#telecom-company-pt-1-statistical-data-analysis-determination-of-a-profitable-plan) "Telecom Company Pt 1: Statistical Data Analysis. Determination of a profitable tariff plan"
+- [![PROJ_04](https://img.shields.io/badge/🔗%20PROJ-04-success)](#gamedev-studying-the-patterns-that-determine-the-success-of-game-platforms) "Gamedev: Studying the patterns that determine videogame platform success"
+- [![PROJ_05](https://img.shields.io/badge/🔗%20PROJ-05-success)](#telecom-company-pt-2-building-a-model-to-determine-a-suitable-tariff) "Telecom Company Pt 2: A tariff recommendation model" 
 - [![PROJ_06](https://img.shields.io/badge/🔗%20PROJ-06-success)](#bank-customer-churn-modeling) "Bank customer churn modeling"
 - [![PROJ_07](https://img.shields.io/badge/🔗%20PROJ-07-success)](#choosing-a-region-for-the-development-of-new-oil-fields) "Choosing a region for the development of new oil fields"
 - [![PROJ_08](https://img.shields.io/badge/🔗%20PROJ-08-success)](#building-machine-learning-algorithm-for-a-metalworking-enterprise) "Building machine learning algorithm for a metalworking enterprise"
@@ -143,7 +143,7 @@ T-test for independent samples.
 [![PROJ_05](https://img.shields.io/badge/go%20to%20PROJ-05-success)](https://github.com/imeleges/YPDS_Projects/tree/main/PROJ_05)
 ![ML](https://img.shields.io/static/v1?label=&message=ML&color=blue)
 
-## "Telecom Company Part 2: A tariff recommendation model "  
+## "Telecom Company Part 2: A tariff recommendation model"  
 
 ### Task  
 Based on the previous data study, build the Machine Learning model for the classification problem, which finds a suitable tariff
