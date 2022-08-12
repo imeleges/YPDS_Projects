@@ -23,16 +23,7 @@ Repository containing portfolio of **Data Analytics** | **Data Science** with **
 - [![PROJ_10](https://img.shields.io/badge/🔗%20PROJ-10-success)](#car-price-prediction-model) "Car price prediction model"
 - [![PROJ_11](https://img.shields.io/badge/🔗%20PROJ-11-success)](#ride-hailing-company-predicting-the-number-of-taxi-orders) "Ride-hailing Company: Predicting the number of taxi orders"
 - [![PROJ_12](https://img.shields.io/badge/🔗%20PROJ-12-success)](#natural-language-processing-classifying-comments) "Natural Language Processing: Classifying comments"
-- [![PROJ_13](https://img.shields.io/badge/🔗%20PROJ-13-success)](#optimization-of-electricity-consumption-in-industry) "Optimization of electricity consumption in industry"
-
-
-
-
-
-
-
-
-
+- [![PROJ_13](https://img.shields.io/badge/🔗%20PROJ-13-success)](#a-plant-electricity-consumption-optimization) "Optimization of electricity consumption in industry"
 
 ***
 
